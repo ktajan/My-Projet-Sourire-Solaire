@@ -1,0 +1,568 @@
+{
+    "Assets": [
+        {
+            "guid": "f2b051f6614e8d347a7f03718d46d400",
+            "prefix": "Characters/Anna",
+            "path": "AnnaCraintive",
+            "group": "Characters/d4c80458-a0c2-4061-8b32-e746f34c74f9"
+        },
+        {
+            "guid": "15b315c389aba3942822e03b3d644e17",
+            "prefix": "Characters/Anna",
+            "path": "AnnaCritique",
+            "group": "Characters/d4c80458-a0c2-4061-8b32-e746f34c74f9"
+        },
+        {
+            "guid": "243910ba45f06e6448b0e042956125f4",
+            "prefix": "Characters/Anna",
+            "path": "AnnaDéception",
+            "group": "Characters/d4c80458-a0c2-4061-8b32-e746f34c74f9"
+        },
+        {
+            "guid": "c7f06b4268cc363408b2d3a616fd53b6",
+            "prefix": "Characters/Anna",
+            "path": "AnnaLibérée",
+            "group": "Characters/d4c80458-a0c2-4061-8b32-e746f34c74f9"
+        },
+        {
+            "guid": "85d3d0116f0bc454d9a750b8f87a6b4a",
+            "prefix": "Characters/Anna",
+            "path": "AnnaNeutre",
+            "group": "Characters/d4c80458-a0c2-4061-8b32-e746f34c74f9"
+        },
+        {
+            "guid": "8349b53b85d5f5d49beb9903ab26829c",
+            "prefix": "Characters/Anna",
+            "path": "AnnaPerplexe",
+            "group": "Characters/d4c80458-a0c2-4061-8b32-e746f34c74f9"
+        },
+        {
+            "guid": "ef8afc42e5b0ed94f8849a3335fb6d1e",
+            "prefix": "Characters/Anna",
+            "path": "AnnaVulnérable",
+            "group": "Characters/d4c80458-a0c2-4061-8b32-e746f34c74f9"
+        },
+        {
+            "guid": "718f96512b6f54d40b54f7bf021a5e5c",
+            "prefix": "Characters/Bruno",
+            "path": "BrunoAmusé",
+            "group": "Characters/c02ace57-076d-465e-ad70-0c5dff412aa1"
+        },
+        {
+            "guid": "8f876947e63221f41a5b6e5d7afa60e0",
+            "prefix": "Characters/Bruno",
+            "path": "BrunoConfus",
+            "group": "Characters/c02ace57-076d-465e-ad70-0c5dff412aa1"
+        },
+        {
+            "guid": "f338309f9727c274292575686cde1866",
+            "prefix": "Characters/Bruno",
+            "path": "BrunoDistant",
+            "group": "Characters/c02ace57-076d-465e-ad70-0c5dff412aa1"
+        },
+        {
+            "guid": "a06596cc14ea3334280f5dfe30a3237a",
+            "prefix": "Characters/Bruno",
+            "path": "BrunoHonteux",
+            "group": "Characters/c02ace57-076d-465e-ad70-0c5dff412aa1"
+        },
+        {
+            "guid": "d096795d719b925478dc8b1a51e95a6f",
+            "prefix": "Characters/Bruno",
+            "path": "BrunoIncapable",
+            "group": "Characters/c02ace57-076d-465e-ad70-0c5dff412aa1"
+        },
+        {
+            "guid": "8ffacce107219bc49b0a835831d66925",
+            "prefix": "Characters/Charles",
+            "path": "CharlesAccablé",
+            "group": "Characters/4b822d9d-0771-413d-8b81-8cece2937c3e"
+        },
+        {
+            "guid": "828c175ed5ebf7b42bf8c97334046843",
+            "prefix": "Characters/Charles",
+            "path": "CharlesAversion",
+            "group": "Characters/4b822d9d-0771-413d-8b81-8cece2937c3e"
+        },
+        {
+            "guid": "f97745f8bd4c13c46b50b01710cd3b1a",
+            "prefix": "Characters/Charles",
+            "path": "CharlesDésillusionné",
+            "group": "Characters/4b822d9d-0771-413d-8b81-8cece2937c3e"
+        },
+        {
+            "guid": "e55d829cc17bdc048bd04d80a85df703",
+            "prefix": "Characters/Charles",
+            "path": "CharlesMécontent",
+            "group": "Characters/4b822d9d-0771-413d-8b81-8cece2937c3e"
+        },
+        {
+            "guid": "f531b10a2fd91aa449b9959b905f9c34",
+            "prefix": "Characters/Charles",
+            "path": "CharlesNeutre",
+            "group": "Characters/4b822d9d-0771-413d-8b81-8cece2937c3e"
+        },
+        {
+            "guid": "1d75ee0573d31be428305c64ce2e48a3",
+            "prefix": "Characters/Charles",
+            "path": "CharlesReplié",
+            "group": "Characters/4b822d9d-0771-413d-8b81-8cece2937c3e"
+        },
+        {
+            "guid": "f1856e70dbef3bf488894c6c6a8f36d6",
+            "prefix": "Characters/Charles",
+            "path": "CharlesRespecté",
+            "group": "Characters/4b822d9d-0771-413d-8b81-8cece2937c3e"
+        },
+        {
+            "guid": "c55cc1ac396917146af03a1a3799ed51",
+            "prefix": "Characters/Flora",
+            "path": "FloraEnergique",
+            "group": "Characters/959cf8a3-f51b-4761-be37-8ab16d08d9da"
+        },
+        {
+            "guid": "4b329df820592bf4b9b9be29805b940d",
+            "prefix": "Characters/Flora",
+            "path": "FloraIrritée",
+            "group": "Characters/959cf8a3-f51b-4761-be37-8ab16d08d9da"
+        },
+        {
+            "guid": "4b9c5c87bc247524888e714be6389e04",
+            "prefix": "Characters/Flora",
+            "path": "FloraLibérée",
+            "group": "Characters/959cf8a3-f51b-4761-be37-8ab16d08d9da"
+        },
+        {
+            "guid": "accf4d7826bfd044fb0720509986ac0e",
+            "prefix": "Characters/Flora",
+            "path": "FloraNeutre",
+            "group": "Characters/959cf8a3-f51b-4761-be37-8ab16d08d9da"
+        },
+        {
+            "guid": "bebeac0cc9f13c24c9dd45c8bdd0fe7f",
+            "prefix": "Characters/Flora",
+            "path": "FloraPréoccupée",
+            "group": "Characters/959cf8a3-f51b-4761-be37-8ab16d08d9da"
+        },
+        {
+            "guid": "61d1e220539e0a84c9c7b536357987ed",
+            "prefix": "Characters/Flora",
+            "path": "FloraRévoltée",
+            "group": "Characters/959cf8a3-f51b-4761-be37-8ab16d08d9da"
+        },
+        {
+            "guid": "590207a491fad31469be9cf9a16ccc59",
+            "prefix": "Characters/Flora",
+            "path": "FloraVulnérable",
+            "group": "Characters/959cf8a3-f51b-4761-be37-8ab16d08d9da"
+        },
+        {
+            "guid": "7f38d3e3bf21b7f45923bfec7ff5b0a1",
+            "prefix": "Characters/Lisa",
+            "path": "LisaAimante",
+            "group": "Characters/c6825f54-9805-43f4-8d48-775eee0d2e75"
+        },
+        {
+            "guid": "3905689ae7d419241b4dac6045f84119",
+            "prefix": "Characters/Lisa",
+            "path": "LisaDéception",
+            "group": "Characters/c6825f54-9805-43f4-8d48-775eee0d2e75"
+        },
+        {
+            "guid": "6f13e2f650218454ca378d5bc6d5e5db",
+            "prefix": "Characters/Lisa",
+            "path": "LisaFrustrée",
+            "group": "Characters/c6825f54-9805-43f4-8d48-775eee0d2e75"
+        },
+        {
+            "guid": "6175b2b0a6c5be64f9e777a0b539a454",
+            "prefix": "Characters/Lisa",
+            "path": "LisaImpuissante",
+            "group": "Characters/c6825f54-9805-43f4-8d48-775eee0d2e75"
+        },
+        {
+            "guid": "9ccd9c6d9ddf95447b3a9ddd53dd3910",
+            "prefix": "Characters/Lisa",
+            "path": "LisaPerplexe",
+            "group": "Characters/c6825f54-9805-43f4-8d48-775eee0d2e75"
+        },
+        {
+            "guid": "1dcd19d8c43bb9d4d9c8ebcc41a27dbd",
+            "prefix": "Characters/Luc",
+            "path": "LucChoqué",
+            "group": "Characters/9744843c-4fac-403e-a230-8e4bfd16dfbb"
+        },
+        {
+            "guid": "a584dde67fb5eb84baa342978f922d09",
+            "prefix": "Characters/Luc",
+            "path": "LucCraintif",
+            "group": "Characters/9744843c-4fac-403e-a230-8e4bfd16dfbb"
+        },
+        {
+            "guid": "9ee60b07119b5d54fb3b52f98a646fc1",
+            "prefix": "Characters/Luc",
+            "path": "LucFautif",
+            "group": "Characters/9744843c-4fac-403e-a230-8e4bfd16dfbb"
+        },
+        {
+            "guid": "bd83cb67f593a8b4a9c774589b6eeee6",
+            "prefix": "Characters/Luc",
+            "path": "LucHésitant",
+            "group": "Characters/9744843c-4fac-403e-a230-8e4bfd16dfbb"
+        },
+        {
+            "guid": "abc8f571a86d7914eb3c09a7f8bae119",
+            "prefix": "Characters/Luc",
+            "path": "LucInspiré",
+            "group": "Characters/9744843c-4fac-403e-a230-8e4bfd16dfbb"
+        },
+        {
+            "guid": "bf860ce7ece44da44b70c52e2a984da2",
+            "prefix": "Characters/Luc",
+            "path": "LucJaloux",
+            "group": "Characters/9744843c-4fac-403e-a230-8e4bfd16dfbb"
+        },
+        {
+            "guid": "1ce13a467fe0d8e4490f501c4ae18ac9",
+            "prefix": "Characters/Luc",
+            "path": "LucNeutre",
+            "group": "Characters/9744843c-4fac-403e-a230-8e4bfd16dfbb"
+        },
+        {
+            "guid": "7f423c4e62e691f429dc14678cfb8ee7",
+            "prefix": "Characters/Marie",
+            "path": "MarieAbasourdie",
+            "group": "Characters/26f1dd6a-a115-4a9b-96df-e0eb9e71ea08"
+        },
+        {
+            "guid": "93bbf69cb7b2f814fab16b7b85e4dd54",
+            "prefix": "Characters/Marie",
+            "path": "MarieAmorphe",
+            "group": "Characters/26f1dd6a-a115-4a9b-96df-e0eb9e71ea08"
+        },
+        {
+            "guid": "495c2f80122c025468a737d702b83a9b",
+            "prefix": "Characters/Marie",
+            "path": "MarieConfiante",
+            "group": "Characters/26f1dd6a-a115-4a9b-96df-e0eb9e71ea08"
+        },
+        {
+            "guid": "4613182ef5dc5b2469444d7c6a058312",
+            "prefix": "Characters/Marie",
+            "path": "MarieDéfiante",
+            "group": "Characters/26f1dd6a-a115-4a9b-96df-e0eb9e71ea08"
+        },
+        {
+            "guid": "2db61f0af480c3f46b6a3eb9ae4760a9",
+            "prefix": "Characters/Marie",
+            "path": "MarieJugée",
+            "group": "Characters/26f1dd6a-a115-4a9b-96df-e0eb9e71ea08"
+        },
+        {
+            "guid": "57ebef5711b75a845a6c7b8dd9bb4086",
+            "prefix": "Characters/Marie",
+            "path": "MarieNeutre",
+            "group": "Characters/26f1dd6a-a115-4a9b-96df-e0eb9e71ea08"
+        },
+        {
+            "guid": "8440e860e99a56f49be49a0a3aa0ec49",
+            "prefix": "Characters/Marie",
+            "path": "MarieRidiculisée",
+            "group": "Characters/26f1dd6a-a115-4a9b-96df-e0eb9e71ea08"
+        },
+        {
+            "guid": "c4991a286e6680b4cae7e817c5a09861",
+            "prefix": "Characters/Samy",
+            "path": "SamyConfiant",
+            "group": "Characters/f110af67-e1ca-4e0b-946c-0b47bdac759d"
+        },
+        {
+            "guid": "b9bb7c55709c0ce4785eabdece8e18e2",
+            "prefix": "Characters/Samy",
+            "path": "SamyEmbarrassé",
+            "group": "Characters/f110af67-e1ca-4e0b-946c-0b47bdac759d"
+        },
+        {
+            "guid": "88a42ed655334194cb672de19888b046",
+            "prefix": "Characters/Samy",
+            "path": "SamyExclus",
+            "group": "Characters/f110af67-e1ca-4e0b-946c-0b47bdac759d"
+        },
+        {
+            "guid": "5b11e536e42878f4fb3f8a8895295c26",
+            "prefix": "Characters/Samy",
+            "path": "SamyFautif",
+            "group": "Characters/f110af67-e1ca-4e0b-946c-0b47bdac759d"
+        },
+        {
+            "guid": "a8e58653c73410442b7fc828bda66155",
+            "prefix": "Characters/Samy",
+            "path": "SamyJugé",
+            "group": "Characters/f110af67-e1ca-4e0b-946c-0b47bdac759d"
+        },
+        {
+            "guid": "f6d7529ea56cd4d4d845cb8f3e85c5ef",
+            "prefix": "Characters/Samy",
+            "path": "SamyNeutre",
+            "group": "Characters/f110af67-e1ca-4e0b-946c-0b47bdac759d"
+        },
+        {
+            "guid": "77302139c921ce243b6aceb10fca0aa4",
+            "prefix": "Characters/Samy",
+            "path": "SamyPerplexe",
+            "group": "Characters/f110af67-e1ca-4e0b-946c-0b47bdac759d"
+        },
+        {
+            "guid": "4fa6d62f894ae6e4698bfa8af59e7942",
+            "prefix": "ChoiceHandlers",
+            "path": "ButtonArea",
+            "group": "ChoiceHandlers/55717aa0-8955-4884-98c8-9001ab5d5fcf"
+        },
+        {
+            "guid": "1f6aa29000e839c409e6a9c0704adc96",
+            "prefix": "ChoiceHandlers",
+            "path": "ButtonList",
+            "group": "ChoiceHandlers/57dc03dd-83d6-49ba-a77f-51d7ef61e68c"
+        },
+        {
+            "guid": "0e61df696cabbea448510879ee732b00",
+            "prefix": "ChoiceHandlers",
+            "path": "ChatReply",
+            "group": "ChoiceHandlers/bfb2e59e-c284-4de5-ac4e-ed031e1fc2d7"
+        },
+        {
+            "guid": "e22efec7957e9234eb6a7e14c9bf84fa",
+            "prefix": "Scripts",
+            "path": "Entry",
+            "group": ""
+        },
+        {
+            "guid": "a0a2234f35cf6744d9c4b88b7b8db2f5",
+            "prefix": "Scripts",
+            "path": "Panneau de choix",
+            "group": ""
+        },
+        {
+            "guid": "8ef4aa13e48ab514d94531eb21ca121c",
+            "prefix": "Scripts",
+            "path": "Test",
+            "group": ""
+        },
+        {
+            "guid": "2affc7a64298edb40a6db9a704814493",
+            "prefix": "Scripts",
+            "path": "Title",
+            "group": ""
+        },
+        {
+            "guid": "7bf06fa813bb9c34daf521998fa72ab1",
+            "prefix": "Spawn",
+            "path": "Animate",
+            "group": ""
+        },
+        {
+            "guid": "e466d9326b30a4b49a3dad428b4d9968",
+            "prefix": "Spawn",
+            "path": "Blur",
+            "group": ""
+        },
+        {
+            "guid": "ea76638b26a915946b62907dd1e776fd",
+            "prefix": "Spawn",
+            "path": "DepthOfField",
+            "group": ""
+        },
+        {
+            "guid": "be75a73ecccb90b4caa5c14edb9ac467",
+            "prefix": "Spawn",
+            "path": "DigitalGlitch",
+            "group": ""
+        },
+        {
+            "guid": "a9117e2fa90704d45b3e1461596c11ee",
+            "prefix": "Spawn",
+            "path": "Rain",
+            "group": ""
+        },
+        {
+            "guid": "9f56c556ba32fd54fae62347c25a8145",
+            "prefix": "Spawn",
+            "path": "ShakeBackground",
+            "group": ""
+        },
+        {
+            "guid": "1c5b86cf3cfbb1f44ae5641699077da4",
+            "prefix": "Spawn",
+            "path": "ShakeCamera",
+            "group": ""
+        },
+        {
+            "guid": "1224d69e1592d624cbde93d0f7383d91",
+            "prefix": "Spawn",
+            "path": "ShakeCharacter",
+            "group": ""
+        },
+        {
+            "guid": "2795040988e866646801c80024c50be1",
+            "prefix": "Spawn",
+            "path": "ShakePrinter",
+            "group": ""
+        },
+        {
+            "guid": "9f4e71cb27fffa04486737d2cf8d622d",
+            "prefix": "Spawn",
+            "path": "Snow",
+            "group": ""
+        },
+        {
+            "guid": "c4bf810b9b6cc9f44a58fd670678ded4",
+            "prefix": "Spawn",
+            "path": "SunShafts",
+            "group": ""
+        },
+        {
+            "guid": "b47d9659b2be5ee4e95a776f213c9d4b",
+            "prefix": "TextPrinters",
+            "path": "Bubble",
+            "group": "TextPrinters/7b20bef8-2bbe-4580-8dd6-c4e245554e2d"
+        },
+        {
+            "guid": "6f9836a3c4f777741b1962979d97e485",
+            "prefix": "TextPrinters",
+            "path": "Chat",
+            "group": "TextPrinters/7c82eaf2-5df5-45f1-9c61-c45d4b32cbf7"
+        },
+        {
+            "guid": "1bc08ccd31adff6439e97161aa6e1d8b",
+            "prefix": "TextPrinters",
+            "path": "Dialogue",
+            "group": "TextPrinters/a239da5a-7d23-4d0d-bd96-40db5fd3d3af"
+        },
+        {
+            "guid": "c87cebd3f0d4f174789cd351ce9591c4",
+            "prefix": "TextPrinters",
+            "path": "Fullscreen",
+            "group": "TextPrinters/8570de7c-e260-488c-9e35-6433ffd102d3"
+        },
+        {
+            "guid": "781828b806deb1e4cbf50ef9de41da10",
+            "prefix": "TextPrinters",
+            "path": "Wide",
+            "group": "TextPrinters/4d0e9abf-7a83-4562-a2e2-86844b43c4f2"
+        },
+        {
+            "guid": "7fba909c66b25324cb77db18679c2c96",
+            "prefix": "UI",
+            "path": "BacklogUI",
+            "group": ""
+        },
+        {
+            "guid": "71da50c8dae82bd42ba67528804e820c",
+            "prefix": "UI",
+            "path": "CGGalleryUI",
+            "group": ""
+        },
+        {
+            "guid": "702c32b2de0c0784b9a66ec90601874f",
+            "prefix": "UI",
+            "path": "ClickThroughPanel",
+            "group": ""
+        },
+        {
+            "guid": "88d03f19bcbff914ba33a7c9895e2d7c",
+            "prefix": "UI",
+            "path": "ConfirmationUI",
+            "group": ""
+        },
+        {
+            "guid": "1add671f8348e8443bcc56290e82fc5e",
+            "prefix": "UI",
+            "path": "ContinueInputUI",
+            "group": ""
+        },
+        {
+            "guid": "671ceb4f549ddf046913d7debf113469",
+            "prefix": "UI",
+            "path": "ExternalScriptsUI",
+            "group": ""
+        },
+        {
+            "guid": "6b8811bf134c52546aad70b73e24da8d",
+            "prefix": "UI",
+            "path": "Livre Sourire Solaire",
+            "group": ""
+        },
+        {
+            "guid": "53aad00e5cf184e458adb001c550518a",
+            "prefix": "UI",
+            "path": "LoadingUI",
+            "group": ""
+        },
+        {
+            "guid": "f9a211517d1cb1a44964dc2254463049",
+            "prefix": "UI",
+            "path": "MovieUI",
+            "group": ""
+        },
+        {
+            "guid": "480f5db62ea305c46b89a86496d2a0c9",
+            "prefix": "UI",
+            "path": "PauseUI",
+            "group": ""
+        },
+        {
+            "guid": "a32c73a3aff4b274c85b3ff16c854b07",
+            "prefix": "UI",
+            "path": "RollbackUI",
+            "group": ""
+        },
+        {
+            "guid": "8d53726b3d08433479398f02b4780e7f",
+            "prefix": "UI",
+            "path": "SaveLoadUI",
+            "group": ""
+        },
+        {
+            "guid": "e3b234b4273b7f64ab3f1d9fe425ed23",
+            "prefix": "UI",
+            "path": "SceneTransitionUI",
+            "group": ""
+        },
+        {
+            "guid": "735d6aa767879aa469134858c5b2f0a7",
+            "prefix": "UI",
+            "path": "ScriptNavigatorUI",
+            "group": ""
+        },
+        {
+            "guid": "65c37f59e9b266f468dd5381fdc03fc3",
+            "prefix": "UI",
+            "path": "SettingsUI",
+            "group": ""
+        },
+        {
+            "guid": "f5aae572225ee1b4c96d1a17fc5cb073",
+            "prefix": "UI",
+            "path": "TipsUI",
+            "group": ""
+        },
+        {
+            "guid": "4b121aa1be1b7e04480b452c595ff17a",
+            "prefix": "UI",
+            "path": "TitleUI",
+            "group": ""
+        },
+        {
+            "guid": "dd85ce99288c2f8488447fa511b1c0d6",
+            "prefix": "UI",
+            "path": "ToastUI",
+            "group": ""
+        },
+        {
+            "guid": "bb95f484e341dcd4391a572f22b7d067",
+            "prefix": "UI",
+            "path": "VariableInputUI",
+            "group": ""
+        }
+    ]
+}

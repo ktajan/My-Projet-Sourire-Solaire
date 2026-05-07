@@ -1,0 +1,4381 @@
+fileFormatVersion: 2
+guid: 0d89e36f12e56ac4aa4956f5ecc3d010
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -925464639759260921
+    second: BoutonSourire_Placeholder_0
+  - first:
+      213: 8272006712443955858
+    second: BoutonSourire_Placeholder_1
+  - first:
+      213: 4204709120922702034
+    second: BoutonSourire_Placeholder_2
+  - first:
+      213: 1913122143701135026
+    second: BoutonSourire_Placeholder_3
+  - first:
+      213: -5014594516469981445
+    second: BoutonSourire_Placeholder_4
+  - first:
+      213: -8360741890080887777
+    second: BoutonSourire_Placeholder_5
+  - first:
+      213: -307207001541855902
+    second: BoutonSourire_Placeholder_6
+  - first:
+      213: 8024003135123941459
+    second: BoutonSourire_Placeholder_7
+  - first:
+      213: -3951360395458930119
+    second: BoutonSourire_Placeholder_8
+  - first:
+      213: 235910643388364805
+    second: BoutonSourire_Placeholder_9
+  - first:
+      213: 7952234256302450564
+    second: BoutonSourire_Placeholder_10
+  - first:
+      213: -3765598314932606463
+    second: BoutonSourire_Placeholder_11
+  - first:
+      213: -728798750553492898
+    second: BoutonSourire_Placeholder_12
+  - first:
+      213: -2276974676010962749
+    second: BoutonSourire_Placeholder_13
+  - first:
+      213: 3643169909961944341
+    second: BoutonSourire_Placeholder_14
+  - first:
+      213: 1549288464043546931
+    second: BoutonSourire_Placeholder_15
+  - first:
+      213: -5245169639897148034
+    second: BoutonSourire_Placeholder_16
+  - first:
+      213: -5556256166713194394
+    second: BoutonSourire_Placeholder_17
+  - first:
+      213: -5036871193489514755
+    second: BoutonSourire_Placeholder_18
+  - first:
+      213: -4029283292465868680
+    second: BoutonSourire_Placeholder_19
+  - first:
+      213: -5328256420852000698
+    second: BoutonSourire_Placeholder_20
+  - first:
+      213: 2892072049624732881
+    second: BoutonSourire_Placeholder_21
+  - first:
+      213: -6629847411686158356
+    second: BoutonSourire_Placeholder_22
+  - first:
+      213: 6666735279194212392
+    second: BoutonSourire_Placeholder_23
+  - first:
+      213: 1510978519665934963
+    second: BoutonSourire_Placeholder_24
+  - first:
+      213: -7356372321665583188
+    second: BoutonSourire_Placeholder_25
+  - first:
+      213: -6578450617594418430
+    second: BoutonSourire_Placeholder_26
+  - first:
+      213: 432104425138640022
+    second: BoutonSourire_Placeholder_27
+  - first:
+      213: 8757068405082868541
+    second: BoutonSourire_Placeholder_28
+  - first:
+      213: -2953878607372101768
+    second: BoutonSourire_Placeholder_29
+  - first:
+      213: 5296769160325180130
+    second: BoutonSourire_Placeholder_30
+  - first:
+      213: 4162194839865241946
+    second: BoutonSourire_Placeholder_31
+  - first:
+      213: 2995421140870657004
+    second: BoutonSourire_Placeholder_32
+  - first:
+      213: 6560913787820092190
+    second: BoutonSourire_Placeholder_33
+  - first:
+      213: 3404926423450474405
+    second: BoutonSourire_Placeholder_34
+  - first:
+      213: 7217089078048785182
+    second: BoutonSourire_Placeholder_35
+  - first:
+      213: 8437394059659008183
+    second: BoutonSourire_Placeholder_36
+  - first:
+      213: 4916107672644361129
+    second: BoutonSourire_Placeholder_37
+  - first:
+      213: 4911902102959359345
+    second: BoutonSourire_Placeholder_38
+  - first:
+      213: 4712697091362003254
+    second: BoutonSourire_Placeholder_39
+  - first:
+      213: -2575185932856433385
+    second: BoutonSourire_Placeholder_40
+  - first:
+      213: -7669142424358675926
+    second: BoutonSourire_Placeholder_41
+  - first:
+      213: 3767650168209779284
+    second: BoutonSourire_Placeholder_42
+  - first:
+      213: -2723369671539058520
+    second: BoutonSourire_Placeholder_43
+  - first:
+      213: -795207929830790927
+    second: BoutonSourire_Placeholder_44
+  - first:
+      213: 5125451134502183329
+    second: BoutonSourire_Placeholder_45
+  - first:
+      213: -2864440111932415936
+    second: BoutonSourire_Placeholder_46
+  - first:
+      213: 8287925060621390155
+    second: BoutonSourire_Placeholder_47
+  - first:
+      213: -7105522650083574670
+    second: BoutonSourire_Placeholder_48
+  - first:
+      213: -8142809936545949915
+    second: BoutonSourire_Placeholder_49
+  - first:
+      213: -4709139076638747526
+    second: BoutonSourire_Placeholder_50
+  - first:
+      213: 375702514213489321
+    second: BoutonSourire_Placeholder_51
+  - first:
+      213: -1797391655980459968
+    second: BoutonSourire_Placeholder_52
+  - first:
+      213: -2037206574119643551
+    second: BoutonSourire_Placeholder_53
+  - first:
+      213: 6849421378614740324
+    second: BoutonSourire_Placeholder_54
+  - first:
+      213: 6631571671328508472
+    second: BoutonSourire_Placeholder_55
+  - first:
+      213: -7886862124297178504
+    second: BoutonSourire_Placeholder_56
+  - first:
+      213: 7744573650709625102
+    second: BoutonSourire_Placeholder_57
+  - first:
+      213: -7085074463090538997
+    second: BoutonSourire_Placeholder_58
+  - first:
+      213: 2214292022249414378
+    second: BoutonSourire_Placeholder_59
+  - first:
+      213: 7011373993857076078
+    second: BoutonSourire_Placeholder_60
+  - first:
+      213: -4180746943133108755
+    second: BoutonSourire_Placeholder_61
+  - first:
+      213: 7818676973203918021
+    second: BoutonSourire_Placeholder_62
+  - first:
+      213: 6340177387187203969
+    second: BoutonSourire_Placeholder_63
+  - first:
+      213: 4405459706542770605
+    second: BoutonSourire_Placeholder_64
+  - first:
+      213: 1811622893176495597
+    second: BoutonSourire_Placeholder_65
+  - first:
+      213: -383941315918568644
+    second: BoutonSourire_Placeholder_66
+  - first:
+      213: 4934724197258766237
+    second: BoutonSourire_Placeholder_67
+  - first:
+      213: 212206160445131837
+    second: BoutonSourire_Placeholder_68
+  - first:
+      213: 709955762890795768
+    second: BoutonSourire_Placeholder_69
+  - first:
+      213: 8298668131904277681
+    second: BoutonSourire_Placeholder_70
+  - first:
+      213: -5894903086555221462
+    second: BoutonSourire_Placeholder_71
+  - first:
+      213: -5306054343725761707
+    second: BoutonSourire_Placeholder_72
+  - first:
+      213: 4900936788235907208
+    second: BoutonSourire_Placeholder_73
+  - first:
+      213: -2239217803389307657
+    second: BoutonSourire_Placeholder_74
+  - first:
+      213: -3198959162673663313
+    second: BoutonSourire_Placeholder_75
+  - first:
+      213: -3480672564761891235
+    second: BoutonSourire_Placeholder_76
+  - first:
+      213: 6413463016790483005
+    second: BoutonSourire_Placeholder_77
+  - first:
+      213: 7456986577126717844
+    second: BoutonSourire_Placeholder_78
+  - first:
+      213: -3589057256610500313
+    second: BoutonSourire_Placeholder_79
+  - first:
+      213: 2629044811633871987
+    second: BoutonSourire_Placeholder_80
+  - first:
+      213: 1477460662399202069
+    second: BoutonSourire_Placeholder_81
+  - first:
+      213: 179212777986663722
+    second: BoutonSourire_Placeholder_82
+  - first:
+      213: -8395091956705294403
+    second: BoutonSourire_Placeholder_83
+  - first:
+      213: -5977338281696395762
+    second: BoutonSourire_Placeholder_84
+  - first:
+      213: 5438331783473147643
+    second: BoutonSourire_Placeholder_85
+  - first:
+      213: -1218103789634624322
+    second: BoutonSourire_Placeholder_86
+  - first:
+      213: 7492539747647501343
+    second: BoutonSourire_Placeholder_87
+  - first:
+      213: 4248229947645884324
+    second: BoutonSourire_Placeholder_88
+  - first:
+      213: -7025601866759785688
+    second: BoutonSourire_Placeholder_89
+  - first:
+      213: 8043864757600548442
+    second: BoutonSourire_Placeholder_90
+  - first:
+      213: -2716430353364703177
+    second: BoutonSourire_Placeholder_91
+  - first:
+      213: -6236785265497382434
+    second: BoutonSourire_Placeholder_92
+  - first:
+      213: -5181321048402295653
+    second: BoutonSourire_Placeholder_93
+  - first:
+      213: 6342275052554940861
+    second: BoutonSourire_Placeholder_94
+  - first:
+      213: -4681383181026280453
+    second: BoutonSourire_Placeholder_95
+  - first:
+      213: 8676223487131298418
+    second: BoutonSourire_Placeholder_96
+  - first:
+      213: -4734651912529860541
+    second: BoutonSourire_Placeholder_97
+  - first:
+      213: -3224435875287387398
+    second: BoutonSourire_Placeholder_98
+  - first:
+      213: 6631372892290061654
+    second: BoutonSourire_Placeholder_99
+  - first:
+      213: -1131988664454700355
+    second: BoutonSourire_Placeholder_100
+  - first:
+      213: -7601247067729786918
+    second: BoutonSourire_Placeholder_101
+  - first:
+      213: 6694932886785254111
+    second: BoutonSourire_Placeholder_102
+  - first:
+      213: 8940065786331849474
+    second: BoutonSourire_Placeholder_103
+  - first:
+      213: -8827529655925348773
+    second: BoutonSourire_Placeholder_104
+  - first:
+      213: 66455188968586100
+    second: BoutonSourire_Placeholder_105
+  - first:
+      213: 4662659089178771854
+    second: BoutonSourire_Placeholder_106
+  - first:
+      213: -9082951712145863023
+    second: BoutonSourire_Placeholder_107
+  - first:
+      213: 8370540942601223160
+    second: BoutonSourire_Placeholder_108
+  - first:
+      213: 5274337839132828655
+    second: BoutonSourire_Placeholder_109
+  - first:
+      213: 822254618495822922
+    second: BoutonSourire_Placeholder_110
+  - first:
+      213: 8124563467562535534
+    second: BoutonSourire_Placeholder_111
+  - first:
+      213: -698845758379723077
+    second: BoutonSourire_Placeholder_112
+  - first:
+      213: 7017788984688674023
+    second: BoutonSourire_Placeholder_113
+  - first:
+      213: -6191926700898411876
+    second: BoutonSourire_Placeholder_114
+  - first:
+      213: -3671770135829857607
+    second: BoutonSourire_Placeholder_115
+  - first:
+      213: -8624958255893649899
+    second: BoutonSourire_Placeholder_116
+  - first:
+      213: -138615250950972657
+    second: BoutonSourire_Placeholder_117
+  - first:
+      213: 5530306980181484692
+    second: BoutonSourire_Placeholder_118
+  - first:
+      213: 3382545108986985165
+    second: BoutonSourire_Placeholder_119
+  - first:
+      213: -8297918135714273310
+    second: BoutonSourire_Placeholder_120
+  - first:
+      213: 3413876826046574366
+    second: BoutonSourire_Placeholder_121
+  - first:
+      213: 3258951523602133861
+    second: BoutonSourire_Placeholder_122
+  - first:
+      213: -7876631052500129740
+    second: BoutonSourire_Placeholder_123
+  - first:
+      213: 463932212240442361
+    second: BoutonSourire_Placeholder_124
+  - first:
+      213: -4813409424936034805
+    second: BoutonSourire_Placeholder_125
+  - first:
+      213: -954884486555687428
+    second: BoutonSourire_Placeholder_126
+  - first:
+      213: -5362335827969496291
+    second: BoutonSourire_Placeholder_127
+  - first:
+      213: 3977672624572056738
+    second: BoutonSourire_Placeholder_128
+  - first:
+      213: 8082351396497046262
+    second: BoutonSourire_Placeholder_129
+  - first:
+      213: 1607465344879694656
+    second: BoutonSourire_Placeholder_130
+  - first:
+      213: 7287781943903250821
+    second: BoutonSourire_Placeholder_131
+  - first:
+      213: 2578617086913833315
+    second: BoutonSourire_Placeholder_132
+  - first:
+      213: -7717590664070119825
+    second: BoutonSourire_Placeholder_133
+  - first:
+      213: -7745948687696615305
+    second: BoutonSourire_Placeholder_134
+  - first:
+      213: 1875471894808571255
+    second: BoutonSourire_Placeholder_135
+  - first:
+      213: -934446758094613932
+    second: BoutonSourire_Placeholder_136
+  - first:
+      213: 4233493888292196567
+    second: BoutonSourire_Placeholder_137
+  - first:
+      213: -8193763679289886875
+    second: BoutonSourire_Placeholder_138
+  - first:
+      213: -7760182457164291900
+    second: BoutonSourire_Placeholder_139
+  - first:
+      213: 8378235537240571884
+    second: BoutonSourire_Placeholder_140
+  - first:
+      213: -588255156694871097
+    second: BoutonSourire_Placeholder_141
+  - first:
+      213: -546883527241900560
+    second: BoutonSourire_Placeholder_142
+  - first:
+      213: 8834742599296092867
+    second: BoutonSourire_Placeholder_143
+  - first:
+      213: 4309114853411153400
+    second: BoutonSourire_Placeholder_144
+  - first:
+      213: 3425909926492039796
+    second: BoutonSourire_Placeholder_145
+  - first:
+      213: -7199847169563564960
+    second: BoutonSourire_Placeholder_146
+  - first:
+      213: 4380043561679269567
+    second: BoutonSourire_Placeholder_147
+  - first:
+      213: -7432977484667151702
+    second: BoutonSourire_Placeholder_148
+  - first:
+      213: 8712474503161286052
+    second: BoutonSourire_Placeholder_149
+  - first:
+      213: -1092131392427270954
+    second: BoutonSourire_Placeholder_150
+  - first:
+      213: -1037131535155083213
+    second: BoutonSourire_Placeholder_151
+  - first:
+      213: 3823931593003414808
+    second: BoutonSourire_Placeholder_152
+  - first:
+      213: 7675179551898037972
+    second: BoutonSourire_Placeholder_153
+  - first:
+      213: -7788290639915248353
+    second: BoutonSourire_Placeholder_154
+  - first:
+      213: -8760268301588317680
+    second: BoutonSourire_Placeholder_155
+  - first:
+      213: -7050424180712459029
+    second: BoutonSourire_Placeholder_156
+  - first:
+      213: 1044481373938789194
+    second: BoutonSourire_Placeholder_157
+  - first:
+      213: 1357563558583459779
+    second: BoutonSourire_Placeholder_158
+  - first:
+      213: 3048445923092411063
+    second: BoutonSourire_Placeholder_159
+  - first:
+      213: -7148356811918539897
+    second: BoutonSourire_Placeholder_160
+  - first:
+      213: 4499498384529335676
+    second: BoutonSourire_Placeholder_161
+  - first:
+      213: 4336490739248262341
+    second: BoutonSourire_Placeholder_162
+  - first:
+      213: 8528405064032480784
+    second: BoutonSourire_Placeholder_163
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_0
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 910
+        width: 557
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 703e6fe30d61823f0800000000000000
+      internalID: -925464639759260921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_1
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 960
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a6eda27421cc270800000000000000
+      internalID: 8272006712443955858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_2
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 960
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d051700ba02a5a30800000000000000
+      internalID: 4204709120922702034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_3
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 960
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2be6d3b1476cc8a10800000000000000
+      internalID: 1913122143701135026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_4
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 918
+        width: 144
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe5f211bd4986ab0800000000000000
+      internalID: -5014594516469981445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_5
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 947
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c200f4c8da8fb80800000000000000
+      internalID: -8360741890080887777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_6
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 947
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 265b5981cd49cbbf0800000000000000
+      internalID: -307207001541855902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_7
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 939
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 358eea1a65cfa5f60800000000000000
+      internalID: 8024003135123941459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_8
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 939
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a9f11d7a2f929c0800000000000000
+      internalID: -3951360395458930119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_9
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 935
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 508b5e1fa7f164300800000000000000
+      internalID: 235910643388364805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_10
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 939
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 487a9916ce20c5e60800000000000000
+      internalID: 7952234256302450564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_11
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 926
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ae1a79848edbbc0800000000000000
+      internalID: -3765598314932606463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_12
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 931
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e52b280d569c2e5f0800000000000000
+      internalID: -728798750553492898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_13
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 926
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c07ec9989f8660e0800000000000000
+      internalID: -2276974676010962749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_14
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 926
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d6ca31bb32f8230800000000000000
+      internalID: 3643169909961944341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_15
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 910
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3391de946ad208510800000000000000
+      internalID: 1549288464043546931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_16
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 910
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e75544ba00a6537b0800000000000000
+      internalID: -5245169639897148034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_17
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 910
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6688cf5647634e2b0800000000000000
+      internalID: -5556256166713194394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_18
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 914
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfed8a40650791ab0800000000000000
+      internalID: -5036871193489514755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_19
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 869
+        width: 115
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 870d72d813c1518c0800000000000000
+      internalID: -4029283292465868680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_20
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 893
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6481ceaf30b3e06b0800000000000000
+      internalID: -5328256420852000698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_21
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 889
+        width: 43
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d4d7bec434b22820800000000000000
+      internalID: 2892072049624732881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_22
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 889
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef476fc7ec0ef3a0800000000000000
+      internalID: -6629847411686158356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_23
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 901
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8288fef1a60058c50800000000000000
+      internalID: 6666735279194212392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 852
+        width: 12
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3720fe745f218f410800000000000000
+      internalID: 1510978519665934963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_25
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 881
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca77b93695ae8e990800000000000000
+      internalID: -7356372321665583188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_26
+      rect:
+        serializedVersion: 2
+        x: 1810
+        y: 860
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20be5d57406a4b4a0800000000000000
+      internalID: -6578450617594418430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_27
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 306
+        width: 1706
+        height: 547
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 694534e6fa42ff500800000000000000
+      internalID: 432104425138640022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_28
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 847
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3bc2c6415b578970800000000000000
+      internalID: 8757068405082868541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_29
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 851
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 877d5f19e07b107d0800000000000000
+      internalID: -2953878607372101768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_30
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 843
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea2d62ec77e18940800000000000000
+      internalID: 5296769160325180130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_31
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 831
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51b124972613c930800000000000000
+      internalID: 4162194839865241946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_32
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 810
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce37a4e38afd19920800000000000000
+      internalID: 2995421140870657004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_33
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 822
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1baafc245c0d0b50800000000000000
+      internalID: 6560913787820092190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_34
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 797
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a75b14ca8ab04f20800000000000000
+      internalID: 3404926423450474405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_35
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 776
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1303795740482460800000000000000
+      internalID: 7217089078048785182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_36
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 776
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b857fba135a71570800000000000000
+      internalID: 8437394059659008183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_37
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 764
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab1a81b1e5893440800000000000000
+      internalID: 4916107672644361129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_38
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 747
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 175036230f49a2440800000000000000
+      internalID: 4911902102959359345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_39
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 585
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63916a0290dd66140800000000000000
+      internalID: 4712697091362003254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_40
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 589
+        width: 69
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7156289b90a134cd0800000000000000
+      internalID: -2575185932856433385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_41
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 456
+        width: 60
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a1930199bb19590800000000000000
+      internalID: -7669142424358675926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_42
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 485
+        width: 57
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45aa51abdd1694430800000000000000
+      internalID: 3767650168209779284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_43
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 547
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a897d776b5a43ad0800000000000000
+      internalID: -2723369671539058520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_44
+      rect:
+        serializedVersion: 2
+        x: 1910
+        y: 526
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f8acdbd99ad6f4f0800000000000000
+      internalID: -795207929830790927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_45
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 489
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a120a9a6a2412740800000000000000
+      internalID: 5125451134502183329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_46
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 472
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04063e705e67f38d0800000000000000
+      internalID: -2864440111932415936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_47
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 443
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b41556b6eef940370800000000000000
+      internalID: 8287925060621390155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_48
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 460
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27cb642ebcc146d90800000000000000
+      internalID: -7105522650083574670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_49
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 451
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52758a2518deefe80800000000000000
+      internalID: -8142809936545949915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_50
+      rect:
+        serializedVersion: 2
+        x: 1885
+        y: 443
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a74590bb5f6c5aeb0800000000000000
+      internalID: -4709139076638747526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_51
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 222
+        width: 324
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa8ae43273c63500800000000000000
+      internalID: 375702514213489321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_52
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 393
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0489807dfc16e07e0800000000000000
+      internalID: -1797391655980459968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_53
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 380
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16612871a636ab3e0800000000000000
+      internalID: -2037206574119643551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_54
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 380
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4654c4d34780e0f50800000000000000
+      internalID: 6849421378614740324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_55
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 364
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83a441cac43180c50800000000000000
+      internalID: 6631571671328508472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_56
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 359
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 872b8c03fac3c8290800000000000000
+      internalID: -7886862124297178504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_57
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 355
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e09b56be3b04a7b60800000000000000
+      internalID: 7744573650709625102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_58
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 234
+        width: 132
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b060c4c6052ccad90800000000000000
+      internalID: -7085074463090538997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_59
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 343
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aee5827ccdebabe10800000000000000
+      internalID: 2214292022249414378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_60
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 334
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6b4343ef776d4160800000000000000
+      internalID: 7011373993857076078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_61
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 326
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de530c64ec00bf5c0800000000000000
+      internalID: -4180746943133108755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_62
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 230
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc88513845818c60800000000000000
+      internalID: 7818676973203918021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_63
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 239
+        width: 22
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18fe140fdb5dcf750800000000000000
+      internalID: 6340177387187203969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_64
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 226
+        width: 140
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da947c01346532d30800000000000000
+      internalID: 4405459706542770605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_65
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 222
+        width: 469
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ded10c64c6d242910800000000000000
+      internalID: 1811622893176495597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_66
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 239
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c33e31a4867fbaaf0800000000000000
+      internalID: -383941315918568644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_67
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 222
+        width: 611
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d97222a1389ab7440800000000000000
+      internalID: 4934724197258766237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_68
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 230
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c4b7ce068e1f200800000000000000
+      internalID: 212206160445131837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_69
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 226
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fae85d31054ad900800000000000000
+      internalID: 709955762890795768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_70
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 218
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bc420f92baca2370800000000000000
+      internalID: 8298668131904277681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_71
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 222
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a22b58410e8113ea0800000000000000
+      internalID: -5894903086555221462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_72
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 222
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55bbe43efab1d56b0800000000000000
+      internalID: -5306054343725761707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_73
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 218
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 880f179ea00a30440800000000000000
+      internalID: 4900936788235907208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_74
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 218
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f4ff3e8543bce0e0800000000000000
+      internalID: -2239217803389307657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_75
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 218
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa2fad127930b93d0800000000000000
+      internalID: -3198959162673663313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_76
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 147
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e6be56eba22bfc0800000000000000
+      internalID: -3480672564761891235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_77
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 130
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d30e6ef32a2310950800000000000000
+      internalID: 6413463016790483005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_78
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 130
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4997e7878c98c7760800000000000000
+      internalID: 7456986577126717844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_79
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 122
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7217135d07b113ec0800000000000000
+      internalID: -3589057256610500313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_80
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 114
+        width: 148
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c4500b35e3c7420800000000000000
+      internalID: 2629044811633871987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_81
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 114
+        width: 260
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 513faeff4aef08410800000000000000
+      internalID: 1477460662399202069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_82
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 134
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a252b137211bc7200800000000000000
+      internalID: 179212777986663722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_83
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 126
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db787df2854ae7b80800000000000000
+      internalID: -8395091956705294403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_84
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 114
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e7429808a3c0da0800000000000000
+      internalID: -5977338281696395762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_85
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 126
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe22ac81f5d87b40800000000000000
+      internalID: 5438331783473147643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_86
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 118
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb4654f9e0d681fe0800000000000000
+      internalID: -1218103789634624322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_87
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 114
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f14360c0439daf760800000000000000
+      internalID: 7492539747647501343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_88
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 122
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a7fb9911aeb4fa30800000000000000
+      internalID: 4248229947645884324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_89
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 126
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 823367e435c008e90800000000000000
+      internalID: -7025601866759785688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_90
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 114
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a56701af06c81af60800000000000000
+      internalID: 8043864757600548442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_91
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 114
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 738ab926cfc4d4ad0800000000000000
+      internalID: -2716430353364703177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_92
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 122
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed163ad48dc7279a0800000000000000
+      internalID: -6236785265497382434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_93
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 122
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b940ab255ff3818b0800000000000000
+      internalID: -5181321048402295653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_94
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 122
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1fb57be89440850800000000000000
+      internalID: 6342275052554940861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_95
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 122
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfbb075ccc2680fb0800000000000000
+      internalID: -4681383181026280453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_96
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 126
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27aac5efa43286870800000000000000
+      internalID: 8676223487131298418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_97
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 122
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 348a88abb232b4eb0800000000000000
+      internalID: -4734651912529860541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_98
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 114
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af2387cb7a08043d0800000000000000
+      internalID: -3224435875287387398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_99
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 126
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6559a12d28e570c50800000000000000
+      internalID: 6631372892290061654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_100
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 114
+        width: 91
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2a865ae4e5a40f0800000000000000
+      internalID: -1131988664454700355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_101
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 122
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad78cf5a012f28690800000000000000
+      internalID: -7601247067729786918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_102
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 114
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd26aef3dfd29ec50800000000000000
+      internalID: 6694932886785254111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_103
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 114
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 203eee6577e711c70800000000000000
+      internalID: 8940065786331849474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_104
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 114
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b56e7565c805e7580800000000000000
+      internalID: -8827529655925348773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_105
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 114
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b34fb64a81ce000800000000000000
+      internalID: 66455188968586100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_106
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 114
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e814f3fdcb715b040800000000000000
+      internalID: 4662659089178771854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_107
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 114
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e05859a8fd2f180800000000000000
+      internalID: -9082951712145863023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_108
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 114
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fbfb9563a22a2470800000000000000
+      internalID: 8370540942601223160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_109
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 114
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3e9eee156323940800000000000000
+      internalID: 5274337839132828655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_110
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 114
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c2e52183c396b00800000000000000
+      internalID: 822254618495822922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_111
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 114
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a4e2f8d6f30c070800000000000000
+      internalID: 8124563467562535534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_112
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 114
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb6fcf24c733d46f0800000000000000
+      internalID: -698845758379723077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_113
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 114
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e4840556e1346160800000000000000
+      internalID: 7017788984688674023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_114
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 114
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a91b5c87bd11aa0800000000000000
+      internalID: -6191926700898411876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_115
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 114
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba39fce3804b0dc0800000000000000
+      internalID: -3671770135829857607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_116
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 114
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 516e2eac92efd4880800000000000000
+      internalID: -8624958255893649899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_117
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 114
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0b9d96e92a831ef0800000000000000
+      internalID: -138615250950972657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_118
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 118
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 494a49cc5e89fbc40800000000000000
+      internalID: 5530306980181484692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_119
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 114
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca77e9ead631fe20800000000000000
+      internalID: 3382545108986985165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_120
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 114
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e7aa797b6fd7dc80800000000000000
+      internalID: -8297918135714273310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_121
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 114
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1fa173c2e6806f20800000000000000
+      internalID: 3413876826046574366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_122
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 114
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 563f580e42f1a3d20800000000000000
+      internalID: 3258951523602133861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_123
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 114
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4382be83ac590b290800000000000000
+      internalID: -7876631052500129740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_124
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 114
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f3e37693e7307600800000000000000
+      internalID: 463932212240442361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_125
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 114
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e9b2c61a5533db0800000000000000
+      internalID: -4813409424936034805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_126
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 114
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf521516e919fb2f0800000000000000
+      internalID: -954884486555687428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_127
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 118
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b278fa9f72595b0800000000000000
+      internalID: -5362335827969496291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_128
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 114
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a4c96c6d28833730800000000000000
+      internalID: 3977672624572056738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_129
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 114
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fab612e5c74a2070800000000000000
+      internalID: 8082351396497046262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_130
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 114
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0431e46e63dde4610800000000000000
+      internalID: 1607465344879694656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_131
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 118
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589ebdec017632560800000000000000
+      internalID: 7287781943903250821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_132
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 114
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3696045149619c320800000000000000
+      internalID: 2578617086913833315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_133
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 118
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6eba3a3e2c95e490800000000000000
+      internalID: -7717590664070119825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_134
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 114
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 778a07555bcd08490800000000000000
+      internalID: -7745948687696615305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_135
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 114
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d2b4c60c3070a10800000000000000
+      internalID: 1875471894808571255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_136
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 114
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 452514adf9d2803f0800000000000000
+      internalID: -934446758094613932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_137
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 114
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d0917ae24460ca30800000000000000
+      internalID: 4233493888292196567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_138
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 114
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 567bd6a9857e94e80800000000000000
+      internalID: -8193763679289886875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_139
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 114
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c02180ab2b4e4490800000000000000
+      internalID: -7760182457164291900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_140
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 114
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef37c1d4d8754470800000000000000
+      internalID: 8378235537240571884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_141
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 114
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c319eb3d0916d7f0800000000000000
+      internalID: -588255156694871097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_142
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 114
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fddb3954541968f0800000000000000
+      internalID: -546883527241900560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_143
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 118
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca0e09e59f4b9a70800000000000000
+      internalID: 8834742599296092867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_144
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 114
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f56ee5e02d0dcb30800000000000000
+      internalID: 4309114853411153400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_145
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 114
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47aea094de64b8f20800000000000000
+      internalID: 3425909926492039796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_146
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 114
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 064ef0d4521051c90800000000000000
+      internalID: -7199847169563564960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_147
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 114
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe21a2b96a09cc30800000000000000
+      internalID: 4380043561679269567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_148
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 118
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa10fafb52c8d890800000000000000
+      internalID: -7432977484667151702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_149
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 114
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad8393666de8e870800000000000000
+      internalID: 8712474503161286052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_150
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 114
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dcd152f848f7d0f0800000000000000
+      internalID: -1092131392427270954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_151
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 114
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 338c9bd1d5e5b91f0800000000000000
+      internalID: -1037131535155083213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_152
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 114
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 815bc561685511530800000000000000
+      internalID: 3823931593003414808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_153
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 114
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4de693a3327b38a60800000000000000
+      internalID: 7675179551898037972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_154
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 114
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f151a585dee6ae390800000000000000
+      internalID: -7788290639915248353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_155
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 114
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ab6b2c4664d6680800000000000000
+      internalID: -8760268301588317680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_156
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 114
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be43fc8ff8cd72e90800000000000000
+      internalID: -7050424180712459029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_157
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 114
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b2224964ebe7e00800000000000000
+      internalID: 1044481373938789194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_158
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 114
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cfd1652dd807d210800000000000000
+      internalID: 1357563558583459779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_159
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 118
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b239ea6a614e4a20800000000000000
+      internalID: 3048445923092411063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_160
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 114
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7830ad96a5febcc90800000000000000
+      internalID: -7148356811918539897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_161
+      rect:
+        serializedVersion: 2
+        x: 1376
+        y: 114
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c75a05df0fd617e30800000000000000
+      internalID: 4499498384529335676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_162
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 114
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cce9a40a5f4e2c30800000000000000
+      internalID: 4336490739248262341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSourire_Placeholder_163
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 114
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e6c46683bfa5670800000000000000
+      internalID: 8528405064032480784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BoutonSourire_Placeholder_0: -925464639759260921
+      BoutonSourire_Placeholder_1: 8272006712443955858
+      BoutonSourire_Placeholder_10: 7952234256302450564
+      BoutonSourire_Placeholder_100: -1131988664454700355
+      BoutonSourire_Placeholder_101: -7601247067729786918
+      BoutonSourire_Placeholder_102: 6694932886785254111
+      BoutonSourire_Placeholder_103: 8940065786331849474
+      BoutonSourire_Placeholder_104: -8827529655925348773
+      BoutonSourire_Placeholder_105: 66455188968586100
+      BoutonSourire_Placeholder_106: 4662659089178771854
+      BoutonSourire_Placeholder_107: -9082951712145863023
+      BoutonSourire_Placeholder_108: 8370540942601223160
+      BoutonSourire_Placeholder_109: 5274337839132828655
+      BoutonSourire_Placeholder_11: -3765598314932606463
+      BoutonSourire_Placeholder_110: 822254618495822922
+      BoutonSourire_Placeholder_111: 8124563467562535534
+      BoutonSourire_Placeholder_112: -698845758379723077
+      BoutonSourire_Placeholder_113: 7017788984688674023
+      BoutonSourire_Placeholder_114: -6191926700898411876
+      BoutonSourire_Placeholder_115: -3671770135829857607
+      BoutonSourire_Placeholder_116: -8624958255893649899
+      BoutonSourire_Placeholder_117: -138615250950972657
+      BoutonSourire_Placeholder_118: 5530306980181484692
+      BoutonSourire_Placeholder_119: 3382545108986985165
+      BoutonSourire_Placeholder_12: -728798750553492898
+      BoutonSourire_Placeholder_120: -8297918135714273310
+      BoutonSourire_Placeholder_121: 3413876826046574366
+      BoutonSourire_Placeholder_122: 3258951523602133861
+      BoutonSourire_Placeholder_123: -7876631052500129740
+      BoutonSourire_Placeholder_124: 463932212240442361
+      BoutonSourire_Placeholder_125: -4813409424936034805
+      BoutonSourire_Placeholder_126: -954884486555687428
+      BoutonSourire_Placeholder_127: -5362335827969496291
+      BoutonSourire_Placeholder_128: 3977672624572056738
+      BoutonSourire_Placeholder_129: 8082351396497046262
+      BoutonSourire_Placeholder_13: -2276974676010962749
+      BoutonSourire_Placeholder_130: 1607465344879694656
+      BoutonSourire_Placeholder_131: 7287781943903250821
+      BoutonSourire_Placeholder_132: 2578617086913833315
+      BoutonSourire_Placeholder_133: -7717590664070119825
+      BoutonSourire_Placeholder_134: -7745948687696615305
+      BoutonSourire_Placeholder_135: 1875471894808571255
+      BoutonSourire_Placeholder_136: -934446758094613932
+      BoutonSourire_Placeholder_137: 4233493888292196567
+      BoutonSourire_Placeholder_138: -8193763679289886875
+      BoutonSourire_Placeholder_139: -7760182457164291900
+      BoutonSourire_Placeholder_14: 3643169909961944341
+      BoutonSourire_Placeholder_140: 8378235537240571884
+      BoutonSourire_Placeholder_141: -588255156694871097
+      BoutonSourire_Placeholder_142: -546883527241900560
+      BoutonSourire_Placeholder_143: 8834742599296092867
+      BoutonSourire_Placeholder_144: 4309114853411153400
+      BoutonSourire_Placeholder_145: 3425909926492039796
+      BoutonSourire_Placeholder_146: -7199847169563564960
+      BoutonSourire_Placeholder_147: 4380043561679269567
+      BoutonSourire_Placeholder_148: -7432977484667151702
+      BoutonSourire_Placeholder_149: 8712474503161286052
+      BoutonSourire_Placeholder_15: 1549288464043546931
+      BoutonSourire_Placeholder_150: -1092131392427270954
+      BoutonSourire_Placeholder_151: -1037131535155083213
+      BoutonSourire_Placeholder_152: 3823931593003414808
+      BoutonSourire_Placeholder_153: 7675179551898037972
+      BoutonSourire_Placeholder_154: -7788290639915248353
+      BoutonSourire_Placeholder_155: -8760268301588317680
+      BoutonSourire_Placeholder_156: -7050424180712459029
+      BoutonSourire_Placeholder_157: 1044481373938789194
+      BoutonSourire_Placeholder_158: 1357563558583459779
+      BoutonSourire_Placeholder_159: 3048445923092411063
+      BoutonSourire_Placeholder_16: -5245169639897148034
+      BoutonSourire_Placeholder_160: -7148356811918539897
+      BoutonSourire_Placeholder_161: 4499498384529335676
+      BoutonSourire_Placeholder_162: 4336490739248262341
+      BoutonSourire_Placeholder_163: 8528405064032480784
+      BoutonSourire_Placeholder_17: -5556256166713194394
+      BoutonSourire_Placeholder_18: -5036871193489514755
+      BoutonSourire_Placeholder_19: -4029283292465868680
+      BoutonSourire_Placeholder_2: 4204709120922702034
+      BoutonSourire_Placeholder_20: -5328256420852000698
+      BoutonSourire_Placeholder_21: 2892072049624732881
+      BoutonSourire_Placeholder_22: -6629847411686158356
+      BoutonSourire_Placeholder_23: 6666735279194212392
+      BoutonSourire_Placeholder_24: 1510978519665934963
+      BoutonSourire_Placeholder_25: -7356372321665583188
+      BoutonSourire_Placeholder_26: -6578450617594418430
+      BoutonSourire_Placeholder_27: 432104425138640022
+      BoutonSourire_Placeholder_28: 8757068405082868541
+      BoutonSourire_Placeholder_29: -2953878607372101768
+      BoutonSourire_Placeholder_3: 1913122143701135026
+      BoutonSourire_Placeholder_30: 5296769160325180130
+      BoutonSourire_Placeholder_31: 4162194839865241946
+      BoutonSourire_Placeholder_32: 2995421140870657004
+      BoutonSourire_Placeholder_33: 6560913787820092190
+      BoutonSourire_Placeholder_34: 3404926423450474405
+      BoutonSourire_Placeholder_35: 7217089078048785182
+      BoutonSourire_Placeholder_36: 8437394059659008183
+      BoutonSourire_Placeholder_37: 4916107672644361129
+      BoutonSourire_Placeholder_38: 4911902102959359345
+      BoutonSourire_Placeholder_39: 4712697091362003254
+      BoutonSourire_Placeholder_4: -5014594516469981445
+      BoutonSourire_Placeholder_40: -2575185932856433385
+      BoutonSourire_Placeholder_41: -7669142424358675926
+      BoutonSourire_Placeholder_42: 3767650168209779284
+      BoutonSourire_Placeholder_43: -2723369671539058520
+      BoutonSourire_Placeholder_44: -795207929830790927
+      BoutonSourire_Placeholder_45: 5125451134502183329
+      BoutonSourire_Placeholder_46: -2864440111932415936
+      BoutonSourire_Placeholder_47: 8287925060621390155
+      BoutonSourire_Placeholder_48: -7105522650083574670
+      BoutonSourire_Placeholder_49: -8142809936545949915
+      BoutonSourire_Placeholder_5: -8360741890080887777
+      BoutonSourire_Placeholder_50: -4709139076638747526
+      BoutonSourire_Placeholder_51: 375702514213489321
+      BoutonSourire_Placeholder_52: -1797391655980459968
+      BoutonSourire_Placeholder_53: -2037206574119643551
+      BoutonSourire_Placeholder_54: 6849421378614740324
+      BoutonSourire_Placeholder_55: 6631571671328508472
+      BoutonSourire_Placeholder_56: -7886862124297178504
+      BoutonSourire_Placeholder_57: 7744573650709625102
+      BoutonSourire_Placeholder_58: -7085074463090538997
+      BoutonSourire_Placeholder_59: 2214292022249414378
+      BoutonSourire_Placeholder_6: -307207001541855902
+      BoutonSourire_Placeholder_60: 7011373993857076078
+      BoutonSourire_Placeholder_61: -4180746943133108755
+      BoutonSourire_Placeholder_62: 7818676973203918021
+      BoutonSourire_Placeholder_63: 6340177387187203969
+      BoutonSourire_Placeholder_64: 4405459706542770605
+      BoutonSourire_Placeholder_65: 1811622893176495597
+      BoutonSourire_Placeholder_66: -383941315918568644
+      BoutonSourire_Placeholder_67: 4934724197258766237
+      BoutonSourire_Placeholder_68: 212206160445131837
+      BoutonSourire_Placeholder_69: 709955762890795768
+      BoutonSourire_Placeholder_7: 8024003135123941459
+      BoutonSourire_Placeholder_70: 8298668131904277681
+      BoutonSourire_Placeholder_71: -5894903086555221462
+      BoutonSourire_Placeholder_72: -5306054343725761707
+      BoutonSourire_Placeholder_73: 4900936788235907208
+      BoutonSourire_Placeholder_74: -2239217803389307657
+      BoutonSourire_Placeholder_75: -3198959162673663313
+      BoutonSourire_Placeholder_76: -3480672564761891235
+      BoutonSourire_Placeholder_77: 6413463016790483005
+      BoutonSourire_Placeholder_78: 7456986577126717844
+      BoutonSourire_Placeholder_79: -3589057256610500313
+      BoutonSourire_Placeholder_8: -3951360395458930119
+      BoutonSourire_Placeholder_80: 2629044811633871987
+      BoutonSourire_Placeholder_81: 1477460662399202069
+      BoutonSourire_Placeholder_82: 179212777986663722
+      BoutonSourire_Placeholder_83: -8395091956705294403
+      BoutonSourire_Placeholder_84: -5977338281696395762
+      BoutonSourire_Placeholder_85: 5438331783473147643
+      BoutonSourire_Placeholder_86: -1218103789634624322
+      BoutonSourire_Placeholder_87: 7492539747647501343
+      BoutonSourire_Placeholder_88: 4248229947645884324
+      BoutonSourire_Placeholder_89: -7025601866759785688
+      BoutonSourire_Placeholder_9: 235910643388364805
+      BoutonSourire_Placeholder_90: 8043864757600548442
+      BoutonSourire_Placeholder_91: -2716430353364703177
+      BoutonSourire_Placeholder_92: -6236785265497382434
+      BoutonSourire_Placeholder_93: -5181321048402295653
+      BoutonSourire_Placeholder_94: 6342275052554940861
+      BoutonSourire_Placeholder_95: -4681383181026280453
+      BoutonSourire_Placeholder_96: 8676223487131298418
+      BoutonSourire_Placeholder_97: -4734651912529860541
+      BoutonSourire_Placeholder_98: -3224435875287387398
+      BoutonSourire_Placeholder_99: 6631372892290061654
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

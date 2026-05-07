@@ -1,0 +1,845 @@
+fileFormatVersion: 2
+guid: b1bc41eb654e63f42b3e1366a83bf1a9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6063862084106457884
+    second: BoutonSolaire_Placeholder_0
+  - first:
+      213: 72158675020673623
+    second: BoutonSolaire_Placeholder_1
+  - first:
+      213: -4259710260440975411
+    second: BoutonSolaire_Placeholder_2
+  - first:
+      213: 4315975311473532297
+    second: BoutonSolaire_Placeholder_3
+  - first:
+      213: -5361204777624034086
+    second: BoutonSolaire_Placeholder_4
+  - first:
+      213: -3880400978881239035
+    second: BoutonSolaire_Placeholder_5
+  - first:
+      213: -5960465984087280670
+    second: BoutonSolaire_Placeholder_6
+  - first:
+      213: 5693106815892833290
+    second: BoutonSolaire_Placeholder_7
+  - first:
+      213: 26574802233011999
+    second: BoutonSolaire_Placeholder_8
+  - first:
+      213: 508693501083167606
+    second: BoutonSolaire_Placeholder_9
+  - first:
+      213: -884769573821952572
+    second: BoutonSolaire_Placeholder_10
+  - first:
+      213: 7065284829411896439
+    second: BoutonSolaire_Placeholder_11
+  - first:
+      213: 4319861639042942131
+    second: BoutonSolaire_Placeholder_12
+  - first:
+      213: 5517924442311841105
+    second: BoutonSolaire_Placeholder_13
+  - first:
+      213: 8481438896032493635
+    second: BoutonSolaire_Placeholder_14
+  - first:
+      213: -2197441159641578184
+    second: BoutonSolaire_Placeholder_15
+  - first:
+      213: -9089403218898796356
+    second: BoutonSolaire_Placeholder_16
+  - first:
+      213: -6709501011818630102
+    second: BoutonSolaire_Placeholder_17
+  - first:
+      213: 330745201636266995
+    second: BoutonSolaire_Placeholder_18
+  - first:
+      213: -5948421319454713631
+    second: BoutonSolaire_Placeholder_19
+  - first:
+      213: -6743213979937833105
+    second: BoutonSolaire_Placeholder_20
+  - first:
+      213: -3998572271501926217
+    second: BoutonSolaire_Placeholder_21
+  - first:
+      213: 2380606852216919078
+    second: BoutonSolaire_Placeholder_22
+  - first:
+      213: -5226404585109507223
+    second: BoutonSolaire_Placeholder_23
+  - first:
+      213: 8680114989675925127
+    second: BoutonSolaire_Placeholder_24
+  - first:
+      213: 6596116055254053735
+    second: BoutonSolaire_Placeholder_25
+  - first:
+      213: 8514868587255770927
+    second: BoutonSolaire_Placeholder_26
+  - first:
+      213: -8296309762492085563
+    second: BoutonSolaire_Placeholder_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BoutonSolaire_Placeholder_0
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 862
+        width: 189
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ecefddef85d8dba0800000000000000
+      internalID: -6063862084106457884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSolaire_Placeholder_1
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 874
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 752f110ceeb500100800000000000000
+      internalID: 72158675020673623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSolaire_Placeholder_2
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 874
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc73458461872e4c0800000000000000
+      internalID: -4259710260440975411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSolaire_Placeholder_3
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 865
+        width: 35
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d5cb3cdac65eb30800000000000000
+      internalID: 4315975311473532297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSolaire_Placeholder_4
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 869
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad4a79dd8ac2995b0800000000000000
+      internalID: -5361204777624034086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSolaire_Placeholder_5
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 856
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 508a4b37edb062ac0800000000000000
+      internalID: -3880400978881239035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSolaire_Placeholder_6
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 256
+        width: 1846
+        height: 607
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e3bda274cb284da0800000000000000
+      internalID: -5960465984087280670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSolaire_Placeholder_7
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 861
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a04c5a55c7af10f40800000000000000
+      internalID: 5693106815892833290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSolaire_Placeholder_8
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 781
+        width: 11
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1f231f44a96e5000800000000000000
+      internalID: 26574802233011999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSolaire_Placeholder_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 465
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67bac974b0e3f0700800000000000000
+      internalID: 508693501083167606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSolaire_Placeholder_10
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 495
+        width: 43
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cdc444a2caa8b3f0800000000000000
+      internalID: -884769573821952572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSolaire_Placeholder_11
+      rect:
+        serializedVersion: 2
+        x: 1910
+        y: 480
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c6d0e6e1fec0260800000000000000
+      internalID: 7065284829411896439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSolaire_Placeholder_12
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 236
+        width: 134
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b4cdf9e54b33fb30800000000000000
+      internalID: 4319861639042942131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSolaire_Placeholder_13
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 240
+        width: 227
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15551798b0b939c40800000000000000
+      internalID: 5517924442311841105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSolaire_Placeholder_14
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 245
+        width: 87
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 340b2364dbf14b570800000000000000
+      internalID: 8481438896032493635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSolaire_Placeholder_15
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 212
+        width: 201
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 835cdb868ee1181e0800000000000000
+      internalID: -2197441159641578184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSolaire_Placeholder_16
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 255
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb0ce3d1ee3fbd180800000000000000
+      internalID: -9089403218898796356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSolaire_Placeholder_17
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 236
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a243d62d06013e2a0800000000000000
+      internalID: -6709501011818630102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSolaire_Placeholder_18
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 240
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f3d1be220b079400800000000000000
+      internalID: 330745201636266995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSolaire_Placeholder_19
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 240
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e89a877356f27da0800000000000000
+      internalID: -5948421319454713631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSolaire_Placeholder_20
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 226
+        width: 49
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f7b51cc9a4b62a0800000000000000
+      internalID: -6743213979937833105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSolaire_Placeholder_21
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 231
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b0a66454b73288c0800000000000000
+      internalID: -3998572271501926217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSolaire_Placeholder_22
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 231
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6241040b15d990120800000000000000
+      internalID: 2380606852216919078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSolaire_Placeholder_23
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 216
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 963331478b41877b0800000000000000
+      internalID: -5226404585109507223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSolaire_Placeholder_24
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 199
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e4d290896f57870800000000000000
+      internalID: 8680114989675925127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSolaire_Placeholder_25
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 199
+        width: 110
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7633ba2ca9c1a8b50800000000000000
+      internalID: 6596116055254053735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSolaire_Placeholder_26
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 199
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f238ccdd3ea2670800000000000000
+      internalID: 8514868587255770927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoutonSolaire_Placeholder_27
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 199
+        width: 133
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cacd0c0a369ddc80800000000000000
+      internalID: -8296309762492085563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BoutonSolaire_Placeholder_0: -6063862084106457884
+      BoutonSolaire_Placeholder_1: 72158675020673623
+      BoutonSolaire_Placeholder_10: -884769573821952572
+      BoutonSolaire_Placeholder_11: 7065284829411896439
+      BoutonSolaire_Placeholder_12: 4319861639042942131
+      BoutonSolaire_Placeholder_13: 5517924442311841105
+      BoutonSolaire_Placeholder_14: 8481438896032493635
+      BoutonSolaire_Placeholder_15: -2197441159641578184
+      BoutonSolaire_Placeholder_16: -9089403218898796356
+      BoutonSolaire_Placeholder_17: -6709501011818630102
+      BoutonSolaire_Placeholder_18: 330745201636266995
+      BoutonSolaire_Placeholder_19: -5948421319454713631
+      BoutonSolaire_Placeholder_2: -4259710260440975411
+      BoutonSolaire_Placeholder_20: -6743213979937833105
+      BoutonSolaire_Placeholder_21: -3998572271501926217
+      BoutonSolaire_Placeholder_22: 2380606852216919078
+      BoutonSolaire_Placeholder_23: -5226404585109507223
+      BoutonSolaire_Placeholder_24: 8680114989675925127
+      BoutonSolaire_Placeholder_25: 6596116055254053735
+      BoutonSolaire_Placeholder_26: 8514868587255770927
+      BoutonSolaire_Placeholder_27: -8296309762492085563
+      BoutonSolaire_Placeholder_3: 4315975311473532297
+      BoutonSolaire_Placeholder_4: -5361204777624034086
+      BoutonSolaire_Placeholder_5: -3880400978881239035
+      BoutonSolaire_Placeholder_6: -5960465984087280670
+      BoutonSolaire_Placeholder_7: 5693106815892833290
+      BoutonSolaire_Placeholder_8: 26574802233011999
+      BoutonSolaire_Placeholder_9: 508693501083167606
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
