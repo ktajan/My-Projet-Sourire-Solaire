@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 6542396784945488770}
   - component: {fileID: 1061938174030169005}
   - component: {fileID: 1489830452841994371}
+  - component: {fileID: -6323335593609739907}
   m_Layer: 0
   m_Name: Xbox_button_Y_Template_0
   m_TagString: Notes
@@ -166,3 +167,17 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!114 &-6323335593609739907
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8977901541374907768}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47b5cec28210d9049b47bc11a12b34e6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::NoteMovement
+  speed: 5
+  targetKey: Y

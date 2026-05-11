@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3493884079057181780
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3507408824992487023}
+  - component: {fileID: 1278388027092761468}
+  - component: {fileID: 2534273870186030940}
+  - component: {fileID: 2780063525599624377}
+  - component: {fileID: 8161225860300970235}
+  m_Layer: 0
+  m_Name: RythmGameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3507408824992487023
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3493884079057181780}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.46841, y: 0.41746, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1278388027092761468
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3493884079057181780}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 36a505fab0f40d04bb2e74cfc6f065ba, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::RhythmGameManager
+  heartObject: {fileID: 4709679278042312727, guid: c927393481e0fe14bbc1613f99b91ea9, type: 3}
+  cardiogramLine: {fileID: 6723523109145727069, guid: 94b536b5a5a54dd499c6c27d190d1cc4, type: 3}
+--- !u!114 &2534273870186030940
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3493884079057181780}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0fa4410eb61a7374abd2c3f10983a3d3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::RandomRhythmSequencer
+  minSpawnDelay: 1
+  maxSpawnDelay: 3
+  numberOfButtonTypes: 4
+  noteSpawner: {fileID: 0}
+  pulseSpawner: {fileID: 0}
+--- !u!114 &2780063525599624377
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3493884079057181780}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 295aba020f9842e45b8d1aa79402b6dd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::NoteSpawner
+  buttonPrefabs:
+  - {fileID: 5695941149833360478, guid: 0fe249d01ca544449b9d6cf2a7276938, type: 3}
+  - {fileID: 2906102749620347834, guid: cc1dcbcd020955f44a57699b8f51a621, type: 3}
+  - {fileID: 3436359415235654373, guid: e0ccf964480997e4eb1eb247f7486393, type: 3}
+  - {fileID: 8977901541374907768, guid: e00f81020c82ecf40b7c5a7daf16c7cd, type: 3}
+  spawnPoint: {fileID: 0}
+  moveSpeed: 5
+--- !u!114 &8161225860300970235
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3493884079057181780}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 949c273f5ec8dfb4faf82d75f6914a73, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PulseSpawner
+  pulsePrefab: {fileID: 6723523109145727069, guid: 94b536b5a5a54dd499c6c27d190d1cc4, type: 3}
+  spawnPoint: {fileID: 0}
+  pulseSpeed: 5

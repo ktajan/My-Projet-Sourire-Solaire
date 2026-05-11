@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 4179776033878351137}
   - component: {fileID: 9124246763317400496}
   - component: {fileID: 8384619509439223610}
+  - component: {fileID: -8185664808169379537}
   m_Layer: 0
   m_Name: Xbox_button_B_Template_0
   m_TagString: Notes
@@ -166,3 +167,17 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1.2, y: 1.2}
   m_EdgeRadius: 0
+--- !u!114 &-8185664808169379537
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2906102749620347834}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47b5cec28210d9049b47bc11a12b34e6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::NoteMovement
+  speed: 5
+  targetKey: B
