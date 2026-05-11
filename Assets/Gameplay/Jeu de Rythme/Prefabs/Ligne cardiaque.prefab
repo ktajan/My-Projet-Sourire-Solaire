@@ -10,6 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4805781489445412848}
   - component: {fileID: 6479047004472426932}
+  - component: {fileID: 5984576913627953319}
   m_Layer: 0
   m_Name: Ligne cardiaque
   m_TagString: Untagged
@@ -440,3 +441,19 @@ LineRenderer:
   m_UseWorldSpace: 0
   m_Loop: 0
   m_ApplyActiveColorSpace: 1
+--- !u!114 &5984576913627953319
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6723523109145727069}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20e2088392a884543bad781b9cf00235, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PulseController
+  lineRenderer: {fileID: 6479047004472426932}
+  resolution: 100
+  vibrationPower: 1.2
+  smoothness: 10

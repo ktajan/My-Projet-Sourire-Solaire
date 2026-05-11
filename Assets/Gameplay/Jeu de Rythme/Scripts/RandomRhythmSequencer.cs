@@ -2,14 +2,13 @@ using UnityEngine;
 
 public class RandomRhythmSequencer : MonoBehaviour
 {
-    [Header("Settings")]
-    [SerializeField] private float minSpawnDelay = 1f;
-    [SerializeField] private float maxSpawnDelay = 3f;
-    [SerializeField] private int numberOfButtonTypes = 4;
+    [Header("Timing")]
+    [SerializeField] private float minSpawnDelay = 1.5f;
+    [SerializeField] private float maxSpawnDelay = 3.0f;
 
-    [Header("References")]
-    [SerializeField] private NoteSpawner noteSpawner;
-    [SerializeField] private PulseSpawner pulseSpawner;
+    [Header("Scripts à piloter")]
+    [SerializeField] private SmartNoteSpawner buttonSpawner;
+    [SerializeField] private PulseController lineController;
 
     private float _timer;
     private float _nextSpawnTime;
@@ -19,18 +18,25 @@ public class RandomRhythmSequencer : MonoBehaviour
     void Update()
     {
         _timer += Time.deltaTime;
+
         if (_timer >= _nextSpawnTime)
         {
-            int randomIndex = Random.Range(0, numberOfButtonTypes);
+            int randomIndex = Random.Range(0, 4);
 
-            // On envoie l'ordre aux spawners
-            noteSpawner.SpawnNote(randomIndex);
-            pulseSpawner.SpawnPulse();
+            // On appelle les deux scripts séparément
+            if (buttonSpawner != null)
+                buttonSpawner.SpawnButtonOnly(randomIndex);
+
+            if (lineController != null)
+                lineController.TriggerVibration();
 
             _timer = 0;
             SetNextTime();
         }
     }
 
-    void SetNextTime() => _nextSpawnTime = Random.Range(minSpawnDelay, maxSpawnDelay);
+    private void SetNextTime()
+    {
+        _nextSpawnTime = Random.Range(minSpawnDelay, maxSpawnDelay);
+    }
 }
