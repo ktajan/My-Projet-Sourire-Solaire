@@ -111,7 +111,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5314469169087712376}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 295aba020f9842e45b8d1aa79402b6dd, type: 3}
   m_Name: 
@@ -121,9 +121,10 @@ MonoBehaviour:
   - {fileID: 2906102749620347834, guid: cc1dcbcd020955f44a57699b8f51a621, type: 3}
   - {fileID: 3436359415235654373, guid: e0ccf964480997e4eb1eb247f7486393, type: 3}
   - {fileID: 8977901541374907768, guid: e00f81020c82ecf40b7c5a7daf16c7cd, type: 3}
-  verticalPosition: 0.5
+  verticalPosition: 0.475
   spawnOffsetOutside: 2
   moveSpeed: 5
+  spawnZPosition: -2
 --- !u!114 &7334138574362993971
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -139,7 +140,11 @@ MonoBehaviour:
   lineRenderer: {fileID: 3766378321939419749}
   resolution: 100
   vibrationPower: 1.2
-  smoothness: 10
+  scrollSpeed: 0.5
+  zPosition: 0
+  echoFrequency: 20
+  echoDecay: 5
+  pulseDuration: 1
 --- !u!114 &3482557162142000380
 MonoBehaviour:
   m_ObjectHideFlags: 0

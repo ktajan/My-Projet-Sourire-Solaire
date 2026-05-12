@@ -31,7 +31,6 @@ public class RhythmGameManager : MonoBehaviour
 
             // Debug pour vérifier dans la console si le code s'exécute bien
             Debug.Log($"Cœur initialisé à l'échelle : {heartObject.transform.localScale}");
-            Debug.Log($"Cœur initialisé à l'échelle : {heartObject.transform.lossyScale}");
         }
     }
 
