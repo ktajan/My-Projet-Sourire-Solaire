@@ -9,11 +9,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3507408824992487023}
-  - component: {fileID: 1278388027092761468}
-  - component: {fileID: 2534273870186030940}
-  - component: {fileID: 2780063525599624377}
-  - component: {fileID: 8161225860300970235}
-  - component: {fileID: 5467456137212657431}
   m_Layer: 0
   m_Name: RythmGameManager
   m_TagString: Untagged
@@ -34,52 +29,93 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 5877139520729618174}
-  - {fileID: 3395572289868631073}
+  - {fileID: 1437419780582610728}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1278388027092761468
+--- !u!1 &5314469169087712376
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1437419780582610728}
+  - component: {fileID: 3248695483343428891}
+  - component: {fileID: 9191207139750954908}
+  - component: {fileID: 797304931014754733}
+  - component: {fileID: 7334138574362993971}
+  - component: {fileID: 3482557162142000380}
+  m_Layer: 0
+  m_Name: Maison des Scripts
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1437419780582610728
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5314469169087712376}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.08840999, y: -0.29354, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5877139520729618174}
+  - {fileID: 3395572289868631073}
+  m_Father: {fileID: 3507408824992487023}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3248695483343428891
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3493884079057181780}
+  m_GameObject: {fileID: 5314469169087712376}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 36a505fab0f40d04bb2e74cfc6f065ba, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::RhythmGameManager
-  heartObject: {fileID: 4709679278042312727, guid: c927393481e0fe14bbc1613f99b91ea9, type: 3}
-  cardiogramLine: {fileID: 6723523109145727069, guid: 94b536b5a5a54dd499c6c27d190d1cc4, type: 3}
---- !u!114 &2534273870186030940
+  heartObject: {fileID: 2022272738754115747}
+  heartPosition: {x: 0, y: 0, z: 0}
+  heartScale: {x: 0.3, y: 0.3, z: 1}
+  cardiogramLine: {fileID: 3521867039835669388}
+  linePosition: {x: 0, y: 0, z: 1}
+  lineLength: 0
+--- !u!114 &9191207139750954908
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3493884079057181780}
+  m_GameObject: {fileID: 5314469169087712376}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 0fa4410eb61a7374abd2c3f10983a3d3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::RandomRhythmSequencer
-  minSpawnDelay: 1
+  minSpawnDelay: 1.5
   maxSpawnDelay: 3
-  buttonSpawner: {fileID: 2780063525599624377}
-  lineController: {fileID: 5467456137212657431}
---- !u!114 &2780063525599624377
+  buttonSpawner: {fileID: 797304931014754733}
+  lineController: {fileID: 7334138574362993971}
+--- !u!114 &797304931014754733
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3493884079057181780}
-  m_Enabled: 1
+  m_GameObject: {fileID: 5314469169087712376}
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 295aba020f9842e45b8d1aa79402b6dd, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::NoteSpawner
+  m_EditorClassIdentifier: Assembly-CSharp::SmartNoteSpawner
   buttonPrefabs:
   - {fileID: 5695941149833360478, guid: 0fe249d01ca544449b9d6cf2a7276938, type: 3}
   - {fileID: 2906102749620347834, guid: cc1dcbcd020955f44a57699b8f51a621, type: 3}
@@ -88,52 +124,64 @@ MonoBehaviour:
   verticalPosition: 0.5
   spawnOffsetOutside: 2
   moveSpeed: 5
---- !u!114 &8161225860300970235
+--- !u!114 &7334138574362993971
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3493884079057181780}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 949c273f5ec8dfb4faf82d75f6914a73, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::PulseSpawner
-  pulsePrefab: {fileID: 6723523109145727069, guid: 94b536b5a5a54dd499c6c27d190d1cc4, type: 3}
-  spawnPoint: {fileID: 0}
-  pulseSpeed: 5
---- !u!114 &5467456137212657431
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3493884079057181780}
-  m_Enabled: 1
+  m_GameObject: {fileID: 5314469169087712376}
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 20e2088392a884543bad781b9cf00235, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PulseController
-  lineRenderer: {fileID: 6479047004472426932, guid: 94b536b5a5a54dd499c6c27d190d1cc4, type: 3}
+  lineRenderer: {fileID: 3766378321939419749}
   resolution: 100
   vibrationPower: 1.2
   smoothness: 10
+--- !u!114 &3482557162142000380
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5314469169087712376}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 949c273f5ec8dfb4faf82d75f6914a73, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PulseSpawner
+  pulsePrefab: {fileID: 0}
+  spawnPoint: {fileID: 0}
+  pulseSpeed: 5
 --- !u!1001 &6722935324586002612
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 3507408824992487023}
+    m_TransformParent: {fileID: 1437419780582610728}
     m_Modifications:
     - target: {fileID: 919685743689883210, guid: c927393481e0fe14bbc1613f99b91ea9, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919685743689883210, guid: c927393481e0fe14bbc1613f99b91ea9, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919685743689883210, guid: c927393481e0fe14bbc1613f99b91ea9, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919685743689883210, guid: c927393481e0fe14bbc1613f99b91ea9, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: 0.08840999
       objectReference: {fileID: 0}
     - target: {fileID: 919685743689883210, guid: c927393481e0fe14bbc1613f99b91ea9, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: 0.29354
       objectReference: {fileID: 0}
     - target: {fileID: 919685743689883210, guid: c927393481e0fe14bbc1613f99b91ea9, type: 3}
       propertyPath: m_LocalPosition.z
@@ -145,15 +193,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919685743689883210, guid: c927393481e0fe14bbc1613f99b91ea9, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 919685743689883210, guid: c927393481e0fe14bbc1613f99b91ea9, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 919685743689883210, guid: c927393481e0fe14bbc1613f99b91ea9, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 919685743689883210, guid: c927393481e0fe14bbc1613f99b91ea9, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -171,11 +219,20 @@ PrefabInstance:
       propertyPath: m_Name
       value: Coeur Placeholder_0
       objectReference: {fileID: 0}
+    - target: {fileID: 4709679278042312727, guid: c927393481e0fe14bbc1613f99b91ea9, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c927393481e0fe14bbc1613f99b91ea9, type: 3}
+--- !u!1 &2022272738754115747 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4709679278042312727, guid: c927393481e0fe14bbc1613f99b91ea9, type: 3}
+  m_PrefabInstance: {fileID: 6722935324586002612}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &5877139520729618174 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 919685743689883210, guid: c927393481e0fe14bbc1613f99b91ea9, type: 3}
@@ -187,15 +244,19 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 3507408824992487023}
+    m_TransformParent: {fileID: 1437419780582610728}
     m_Modifications:
     - target: {fileID: 4805781489445412848, guid: 94b536b5a5a54dd499c6c27d190d1cc4, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4805781489445412848, guid: 94b536b5a5a54dd499c6c27d190d1cc4, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: 0.08840999
       objectReference: {fileID: 0}
     - target: {fileID: 4805781489445412848, guid: 94b536b5a5a54dd499c6c27d190d1cc4, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: 0.29354
       objectReference: {fileID: 0}
     - target: {fileID: 4805781489445412848, guid: 94b536b5a5a54dd499c6c27d190d1cc4, type: 3}
       propertyPath: m_LocalPosition.z
@@ -207,15 +268,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4805781489445412848, guid: 94b536b5a5a54dd499c6c27d190d1cc4, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 4805781489445412848, guid: 94b536b5a5a54dd499c6c27d190d1cc4, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 4805781489445412848, guid: 94b536b5a5a54dd499c6c27d190d1cc4, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 4805781489445412848, guid: 94b536b5a5a54dd499c6c27d190d1cc4, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -229,9 +290,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6479047004472426932, guid: 94b536b5a5a54dd499c6c27d190d1cc4, type: 3}
+      propertyPath: m_UseWorldSpace
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 6723523109145727069, guid: 94b536b5a5a54dd499c6c27d190d1cc4, type: 3}
       propertyPath: m_Name
       value: Ligne cardiaque
+      objectReference: {fileID: 0}
+    - target: {fileID: 6723523109145727069, guid: 94b536b5a5a54dd499c6c27d190d1cc4, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -241,5 +310,15 @@ PrefabInstance:
 --- !u!4 &3395572289868631073 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4805781489445412848, guid: 94b536b5a5a54dd499c6c27d190d1cc4, type: 3}
+  m_PrefabInstance: {fileID: 7903518058223571921}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &3521867039835669388 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6723523109145727069, guid: 94b536b5a5a54dd499c6c27d190d1cc4, type: 3}
+  m_PrefabInstance: {fileID: 7903518058223571921}
+  m_PrefabAsset: {fileID: 0}
+--- !u!120 &3766378321939419749 stripped
+LineRenderer:
+  m_CorrespondingSourceObject: {fileID: 6479047004472426932, guid: 94b536b5a5a54dd499c6c27d190d1cc4, type: 3}
   m_PrefabInstance: {fileID: 7903518058223571921}
   m_PrefabAsset: {fileID: 0}
