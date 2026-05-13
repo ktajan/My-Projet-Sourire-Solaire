@@ -15,6 +15,14 @@
         "com.unity.nuget.newtonsoft-json": "3.2.2"
       }
     },
+    "com.unify.unified-universal-blur": {
+      "version": "file:Unified-Universal-Blur-main",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {
+        "com.unity.render-pipelines.universal": "14.0.11"
+      }
+    },
     "com.unity.2d.animation": {
       "version": "13.0.4",
       "depth": 0,

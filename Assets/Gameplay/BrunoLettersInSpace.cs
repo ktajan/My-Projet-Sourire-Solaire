@@ -3,7 +3,7 @@ using TMPro;
 using Naninovel;
 using System.Collections.Generic;
 
-public class LisaBlur : MonoBehaviour
+public class BrunoLettersInSpace : MonoBehaviour
 {
     [Header("Réglages de la Dérive")]
     [Range(0f, 1f)] public float intensiteEparpillement = 0f;
