@@ -45,7 +45,6 @@ GameObject:
   - component: {fileID: 9191207139750954908}
   - component: {fileID: 797304931014754733}
   - component: {fileID: 7334138574362993971}
-  - component: {fileID: 1952399395009553830}
   m_Layer: 0
   m_Name: Maison des Scripts
   m_TagString: Untagged
@@ -151,19 +150,6 @@ MonoBehaviour:
   echoFrequency: 10
   echoDecay: 5
   pulseDuration: 1
---- !u!114 &1952399395009553830
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5314469169087712376}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8a004e867c87556408fad68634d25e63, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::LisaBlur
-  intensiteFlou: 0.983
 --- !u!1001 &6722935324586002612
 PrefabInstance:
   m_ObjectHideFlags: 0
