@@ -1,4 +1,5 @@
 using UnityEngine;
+using System.Collections.Generic;
 
 public class PulseController : MonoBehaviour
 {
@@ -6,37 +7,24 @@ public class PulseController : MonoBehaviour
     [SerializeField] private LineRenderer lineRenderer;
 
     [Header("Synchronisation Physique")]
-    [Tooltip("Même valeur que la 'speed' du bouton (NoteMovement)")]
+    [Tooltip("Doit correspondre EXACTEMENT à la 'speed' du bouton")]
     [SerializeField] private float vitesseBoutons = 5f;
-    [Tooltip("Ajustement manuel du timing (en secondes)")]
+    [Tooltip("Délai (en secondes) avant l'apparition de l'onde")]
     [SerializeField] private float delaiSpawn = 0.1f;
 
-    [Header("Paramètres de l'Onde")]
+    [Header("Paramètres du Zigzag Aléatoire")]
     [SerializeField] private float vibrationPower = 1.5f;
     [SerializeField] private float echoFrequency = 20f;
+    [Tooltip("Vitesse de baisse d'énergie globale")]
     [SerializeField] private float echoDecay = 5f;
-    [SerializeField] private float pulseDuration = 1f;
+    [SerializeField] private float pulseDuration = 1.5f;
 
     private Vector3[] _positions;
-    private float[] _yPositions;
-    private float _distanceAccumulateur = 0f;
-    private float _pulseTimer = 100f;
+    private List<float> _activePulses = new List<float>();
 
-    private float _delayTimer = 0f;
-    private bool _isDelayed = false;
-
-    // --- Gestion du Spawn (Trigger) ---
     public void TriggerVibration()
     {
-        if (delaiSpawn > 0f)
-        {
-            _isDelayed = true;
-            _delayTimer = delaiSpawn;
-        }
-        else
-        {
-            _pulseTimer = 0f;
-        }
+        _activePulses.Add(-delaiSpawn);
     }
 
     void Update()
@@ -45,68 +33,74 @@ public class PulseController : MonoBehaviour
 
         int pointCount = lineRenderer.positionCount;
 
-        // Initialisation des tableaux si nécessaire
         if (_positions == null || _positions.Length != pointCount)
         {
             _positions = new Vector3[pointCount];
-            _yPositions = new float[pointCount];
             lineRenderer.GetPositions(_positions);
-            // On mémorise les Y de départ
-            for (int i = 0; i < pointCount; i++) _yPositions[i] = _positions[i].y;
         }
 
-        // 1. Calcul de la distance entre deux points (en unités Unity)
-        // On le recalcule au cas où la ligne change, mais c'est l'écart physique X.
-        float distanceEntrePoints = Mathf.Abs(_positions[1].x - _positions[0].x);
+        float origineX = _positions[pointCount - 1].x;
+        float distanceTotale = Mathf.Abs(_positions[0].x - origineX);
+        float dureeDeVieMax = (distanceTotale / vitesseBoutons) + pulseDuration;
 
-        // 2. Gestion du délai
-        if (_isDelayed)
+        for (int i = _activePulses.Count - 1; i >= 0; i--)
         {
-            _delayTimer -= Time.deltaTime;
-            if (_delayTimer <= 0f) { _isDelayed = false; _pulseTimer = 0f; }
+            _activePulses[i] += Time.deltaTime;
+            if (_activePulses[i] > dureeDeVieMax)
+            {
+                _activePulses.RemoveAt(i);
+            }
         }
 
-        // 3. L'ACCUMULATEUR DE DISTANCE (Le coeur de la Solution 1)
-        // On regarde de combien les boutons ont avancé pendant cette frame
-        _distanceAccumulateur += vitesseBoutons * Time.deltaTime;
-
-        // Tant que l'accumulateur dépasse la distance entre deux points de la ligne
-        while (_distanceAccumulateur >= distanceEntrePoints)
-        {
-            _distanceAccumulateur -= distanceEntrePoints;
-
-            // On décale les valeurs Y du tableau vers la gauche
-            for (int i = 0; i < pointCount - 1; i++)
-            {
-                _yPositions[i] = _yPositions[i + 1];
-            }
-
-            // On calcule la nouvelle valeur de l'onde à injecter à droite
-            float newY = 0f;
-            if (_pulseTimer < pulseDuration)
-            {
-                float wave = Mathf.Cos(_pulseTimer * echoFrequency) * vibrationPower;
-                float damping = Mathf.Exp(-_pulseTimer * echoDecay);
-                newY = wave * damping;
-
-                // On avance le timer de l'onde proportionnellement à la vitesse
-                _pulseTimer += (distanceEntrePoints / vitesseBoutons) * 10f;
-            }
-            _yPositions[pointCount - 1] = newY;
-        }
-
-        // 4. Mise à jour visuelle (Interpolation pour la fluidité)
-        float t = _distanceAccumulateur / distanceEntrePoints;
         for (int i = 0; i < pointCount; i++)
         {
-            float lerpedY = _yPositions[i];
-            // On lisse entre la position actuelle et la suivante pour éviter les saccades
-            if (i < pointCount - 1)
+            float distanceDepuisOrigine = origineX - _positions[i].x;
+            float totalY = 0f;
+
+            foreach (float pulseAge in _activePulses)
             {
-                lerpedY = Mathf.Lerp(_yPositions[i], _yPositions[i + 1], t);
+                if (pulseAge <= 0f) continue;
+
+                float tempsLocal = pulseAge - (distanceDepuisOrigine / vitesseBoutons);
+
+                if (tempsLocal >= 0f && tempsLocal <= pulseDuration)
+                {
+                    // --- 1. LE ZIGZAG (Aucune courbe, angles vifs) ---
+                    float cycleTime = tempsLocal * echoFrequency;
+                    int cycleIndex = Mathf.FloorToInt(cycleTime);
+                    float timeInCycle = cycleTime - cycleIndex; // De 0 à 1
+
+                    float wave = 0f;
+                    if (timeInCycle < 0.25f)
+                        wave = timeInCycle * 4f; // Monte en flèche (0 à 1)
+                    else if (timeInCycle < 0.75f)
+                        wave = 1f - ((timeInCycle - 0.25f) * 4f); // Descend brutalement (1 à -1)
+                    else
+                        wave = -1f + ((timeInCycle - 0.75f) * 4f); // Remonte à zéro (-1 à 0)
+
+                    // --- 2. HAUTEUR ALÉATOIRE SÉCURISÉE ---
+                    // On récupère l'instant de naissance de l'onde pour créer un "ID" unique
+                    float pulseId = Mathf.Round((Time.time - pulseAge) * 100f);
+
+                    // On crée une graine mathématique (Seed) unique pour CE pic précis
+                    float seed = pulseId + cycleIndex;
+
+                    // Formule magique qui génère un chiffre aléatoire fixe (entre 0 et 1)
+                    float randomHash = Mathf.Abs(Mathf.Sin(seed * 12.9898f) * 43758.5453f);
+                    float randomFactor = randomHash - Mathf.Floor(randomHash);
+
+                    // On calcule la baisse de base, puis on l'écrase avec notre aléatoire
+                    float dampingGlobal = Mathf.Exp(-tempsLocal * echoDecay);
+
+                    // Le pic fera entre 10% et 100% de la taille qu'il devrait faire
+                    float amplitudeAleatoire = dampingGlobal * Mathf.Lerp(0.1f, 1.0f, randomFactor);
+
+                    // On additionne le résultat à la ligne
+                    totalY += wave * vibrationPower * amplitudeAleatoire;
+                }
             }
 
-            _positions[i].y = lerpedY;
+            _positions[i].y = totalY;
         }
 
         lineRenderer.SetPositions(_positions);
