@@ -1,10 +1,9 @@
 using UnityEngine;
-using UnityEngine.InputSystem; // <-- 1. Cette ligne permet d'utiliser le nouveau système
+using UnityEngine.InputSystem;
 
 public class ScriptCoeurEtTrigger : MonoBehaviour
 {
     [Header("Réglages des Touches")]
-    // 2. Ces variables DOIVENT être 'public' pour apparaître dans l'Inspector
     public InputActionReference actionA;
     public InputActionReference actionB;
     public InputActionReference actionX;
@@ -13,11 +12,18 @@ public class ScriptCoeurEtTrigger : MonoBehaviour
     [Header("Paramètres de Jeu")]
     public float margeParfaite = 0.5f;
 
+    [Header("Système de Score")]
+    [SerializeField] private int pointsNormal = 10;
+    [SerializeField] private int pointsParfait = 25;
+    [SerializeField] private int penaliteRate = 15;          // Note qui sort sans être frappée
+    [SerializeField] private int penaliteMauvaiseTouche = 10; // Mauvaise touche sur une note
+    [SerializeField] private int penaliteDansLeVide = 5;      // Appuyer quand il n'y a rien
+
+    private int _scoreActuel = 0; // Le score "caché"
     private GameObject noteActuelle = null;
     private InfoNote infoNoteActuelle = null;
     private bool peutFrapper = false;
 
-    // 3. On active les entrées quand le script démarre
     void OnEnable()
     {
         if (actionA != null) actionA.action.Enable();
@@ -28,28 +34,37 @@ public class ScriptCoeurEtTrigger : MonoBehaviour
 
     void Update()
     {
+        // On vérifie chaque touche individuellement pour pouvoir gérer les erreurs
+        if (actionA.action.WasPressedThisFrame()) GererEntree(TypeBouton.BoutonA);
+        if (actionB.action.WasPressedThisFrame()) GererEntree(TypeBouton.BoutonB);
+        if (actionX.action.WasPressedThisFrame()) GererEntree(TypeBouton.BoutonX);
+        if (actionY.action.WasPressedThisFrame()) GererEntree(TypeBouton.BoutonY);
+    }
+
+    private void GererEntree(TypeBouton boutonPresse)
+    {
         if (peutFrapper && infoNoteActuelle != null)
         {
-            if (VerifierSiTouchePressee())
+            // CAS 1 : C'est la bonne touche !
+            if (boutonPresse == infoNoteActuelle.typeDeCetteNote)
             {
                 EvaluerFrappe();
             }
-        }
-    }
-
-    bool VerifierSiTouchePressee()
-    {
-        // On demande à l'action correspondante au type de la note si elle est activée
-            // On remplace .triggered par .WasPressedThisFrame()
-            // C'est beaucoup plus fiable pour les jeux de rythme
-            switch (infoNoteActuelle.typeDeCetteNote)
+            // CAS 2 : C'est une touche, mais pas la bonne (Mauvaise Note)
+            else
             {
-                case TypeBouton.BoutonA: return actionA.action.WasPressedThisFrame();
-                case TypeBouton.BoutonB: return actionB.action.WasPressedThisFrame();
-                case TypeBouton.BoutonX: return actionX.action.WasPressedThisFrame();
-                case TypeBouton.BoutonY: return actionY.action.WasPressedThisFrame();
-                default: return false;
+                Debug.Log("Mauvaise Touche !");
+                ModifierScore(-penaliteMauvaiseTouche);
+                Destroy(noteActuelle);
+                NettoyerNote();
             }
+        }
+        // CAS 3 : On appuie alors qu'il n'y a pas de note (Dans le vide)
+        else
+        {
+            Debug.Log("Appuyé dans le vide !");
+            ModifierScore(-penaliteDansLeVide);
+        }
     }
 
     void OnTriggerEnter2D(Collider2D autre)
@@ -66,7 +81,9 @@ public class ScriptCoeurEtTrigger : MonoBehaviour
     {
         if (autre.CompareTag("Notes") && autre.gameObject == noteActuelle)
         {
+            // CAS 4 : La note s'en va sans avoir été touchée (Raté)
             Debug.Log("Raté !");
+            ModifierScore(-penaliteRate);
             NettoyerNote();
         }
     }
@@ -75,11 +92,28 @@ public class ScriptCoeurEtTrigger : MonoBehaviour
     {
         float distance = Vector2.Distance(transform.position, noteActuelle.transform.position);
 
-        if (distance <= margeParfaite) Debug.Log("PARFAIT !");
-        else Debug.Log("BIEN !");
+        if (distance <= margeParfaite)
+        {
+            Debug.Log("PARFAIT !");
+            ModifierScore(pointsParfait);
+        }
+        else
+        {
+            Debug.Log("BIEN !");
+            ModifierScore(pointsNormal);
+        }
 
         Destroy(noteActuelle);
         NettoyerNote();
+    }
+
+    private void ModifierScore(int valeur)
+    {
+        _scoreActuel += valeur;
+        // On empêche le score de descendre en dessous de 0 (Optionnel)
+        if (_scoreActuel < 0) _scoreActuel = 0;
+
+        Debug.Log("Score actuel : " + _scoreActuel);
     }
 
     void NettoyerNote()

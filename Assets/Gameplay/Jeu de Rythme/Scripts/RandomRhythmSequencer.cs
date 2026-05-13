@@ -21,14 +21,19 @@ public class RandomRhythmSequencer : MonoBehaviour
 
         if (_timer >= _nextSpawnTime)
         {
+            // On choisit un index entre 0 et 3
             int randomIndex = Random.Range(0, 4);
 
-            // On appelle les deux scripts séparément
+            // On appelle le spawner de boutons
             if (buttonSpawner != null)
                 buttonSpawner.SpawnButtonOnly(randomIndex);
 
+            // On appelle le contrôleur de ligne en transformant l'index en TypeBouton
             if (lineController != null)
-                lineController.TriggerVibration();
+            {
+                // On ajoute (TypeBouton) devant randomIndex pour corriger l'erreur
+                lineController.TriggerVibration((TypeBouton)randomIndex);
+            }
 
             _timer = 0;
             SetNextTime();

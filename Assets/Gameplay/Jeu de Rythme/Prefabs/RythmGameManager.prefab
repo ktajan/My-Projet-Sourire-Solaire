@@ -45,7 +45,7 @@ GameObject:
   - component: {fileID: 9191207139750954908}
   - component: {fileID: 797304931014754733}
   - component: {fileID: 7334138574362993971}
-  - component: {fileID: 3482557162142000380}
+  - component: {fileID: 1952399395009553830}
   m_Layer: 0
   m_Name: Maison des Scripts
   m_TagString: Untagged
@@ -83,10 +83,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::RhythmGameManager
   heartObject: {fileID: 2022272738754115747}
-  heartPosition: {x: 0, y: 0, z: 0}
+  heartPosition: {x: 0, y: 0, z: 2}
   heartScale: {x: 0.3, y: 0.3, z: 1}
   cardiogramLine: {fileID: 3521867039835669388}
-  linePosition: {x: 0, y: 0, z: 1}
+  linePosition: {x: 0, y: 0, z: 3}
   lineLength: 0
 --- !u!114 &9191207139750954908
 MonoBehaviour:
@@ -124,7 +124,7 @@ MonoBehaviour:
   verticalPosition: 0.475
   spawnOffsetOutside: 2
   moveSpeed: 5
-  spawnZPosition: -2
+  spawnZPosition: 1
 --- !u!114 &7334138574362993971
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -139,26 +139,31 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::PulseController
   lineRenderer: {fileID: 3766378321939419749}
   vitesseBoutons: 5
-  delaiSpawn: 0.5
-  vibrationPower: 3
+  delaiSpawn: 0.55
+  puissanceA: 0.9
+  puissanceB: 1.1
+  puissanceX: 1.2
+  puissanceY: 0.8
+  vibrationPower: 1.7
+  echoMaxPercentage: 0.777
+  echoMinRandom: 0.2
+  echoMaxRandom: 1
   echoFrequency: 10
   echoDecay: 5
   pulseDuration: 1
---- !u!114 &3482557162142000380
+--- !u!114 &1952399395009553830
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5314469169087712376}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 949c273f5ec8dfb4faf82d75f6914a73, type: 3}
+  m_Script: {fileID: 11500000, guid: 8a004e867c87556408fad68634d25e63, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::PulseSpawner
-  pulsePrefab: {fileID: 0}
-  spawnPoint: {fileID: 0}
-  pulseSpeed: 5
+  m_EditorClassIdentifier: Assembly-CSharp::LisaBlur
+  intensiteFlou: 0.983
 --- !u!1001 &6722935324586002612
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -227,16 +232,42 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2904276369513057080, guid: c927393481e0fe14bbc1613f99b91ea9, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 4709679278042312727, guid: c927393481e0fe14bbc1613f99b91ea9, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 3133759974730242019}
   m_SourcePrefab: {fileID: 100100000, guid: c927393481e0fe14bbc1613f99b91ea9, type: 3}
 --- !u!1 &2022272738754115747 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 4709679278042312727, guid: c927393481e0fe14bbc1613f99b91ea9, type: 3}
   m_PrefabInstance: {fileID: 6722935324586002612}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &3133759974730242019
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2022272738754115747}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c84d8a2b646441444a6e0ed174f907ad, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ScriptCoeurEtTrigger
+  actionA: {fileID: -4627912671819713624, guid: 8e19411bde720e54d8ddf99c54e3fd6c, type: 3}
+  actionB: {fileID: 6738617924591169284, guid: 8e19411bde720e54d8ddf99c54e3fd6c, type: 3}
+  actionX: {fileID: -3081792377857071090, guid: 8e19411bde720e54d8ddf99c54e3fd6c, type: 3}
+  actionY: {fileID: -223908124894624248, guid: 8e19411bde720e54d8ddf99c54e3fd6c, type: 3}
+  margeParfaite: 0.5
+  pointsNormal: 10
+  pointsParfait: 25
+  penaliteRate: 10
+  penaliteMauvaiseTouche: 15
+  penaliteDansLeVide: 5
 --- !u!4 &5877139520729618174 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 919685743689883210, guid: c927393481e0fe14bbc1613f99b91ea9, type: 3}

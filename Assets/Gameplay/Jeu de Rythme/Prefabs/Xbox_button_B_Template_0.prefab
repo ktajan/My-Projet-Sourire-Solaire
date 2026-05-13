@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 9124246763317400496}
   - component: {fileID: 8384619509439223610}
   - component: {fileID: -8185664808169379537}
+  - component: {fileID: 5883122652206158850}
   m_Layer: 0
   m_Name: Xbox_button_B_Template_0
   m_TagString: Notes
@@ -181,3 +182,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::NoteMovement
   speed: 5
   targetKey: B
+--- !u!114 &5883122652206158850
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2906102749620347834}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 07d4eea0a41a7cb459a980ca8b268e3c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::InfoNote
+  typeDeCetteNote: 1
