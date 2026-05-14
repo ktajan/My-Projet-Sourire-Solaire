@@ -19,6 +19,9 @@ public class ScriptCoeurEtTrigger : MonoBehaviour
     [SerializeField] private int penaliteMauvaiseTouche = 10; // Mauvaise touche sur une note
     [SerializeField] private int penaliteDansLeVide = 5;      // Appuyer quand il n'y a rien
 
+    [Header("Animation Coeur")]
+    public Animator animatorPersonnage;
+
     private int _scoreActuel = 0; // Le score "caché"
     private GameObject noteActuelle = null;
     private InfoNote infoNoteActuelle = null;
@@ -96,6 +99,13 @@ public class ScriptCoeurEtTrigger : MonoBehaviour
         {
             Debug.Log("PARFAIT !");
             ModifierScore(pointsParfait);
+
+            // NOUVEAU : On déclenche l'animation ici !
+            // On vérifie d'abord si tu as bien glissé l'Animator dans l'inspecteur pour éviter un crash
+            if (animatorPersonnage != null)
+            {
+                animatorPersonnage.SetTrigger("FaitUnParfait");
+            }
         }
         else
         {
