@@ -18,14 +18,25 @@ public class ScriptCoeurEtTrigger : MonoBehaviour
     [SerializeField] private int penaliteRate = 15;          // Note qui sort sans être frappée
     [SerializeField] private int penaliteMauvaiseTouche = 10; // Mauvaise touche sur une note
     [SerializeField] private int penaliteDansLeVide = 5;      // Appuyer quand il n'y a rien
+    [SerializeField] private int scoreMax = 100;
+    [SerializeField] private int scoreDepart = 50;
 
     [Header("Animation Coeur")]
     public Animator animatorPersonnage;
 
-    private int _scoreActuel = 0; // Le score "caché"
+    // --- LE CORRECTIF EST ICI ---
+    private int _scoreActuel = 0; // La vraie variable (qui avait disparu)
+    public int ScoreActuel => _scoreActuel; // La vitrine pour que Lisa puisse lire le score
+    // ----------------------------
+
     private GameObject noteActuelle = null;
     private InfoNote infoNoteActuelle = null;
     private bool peutFrapper = false;
+
+    void Start()
+    {
+        _scoreActuel = scoreDepart;
+    }
 
     void OnEnable()
     {
@@ -101,7 +112,6 @@ public class ScriptCoeurEtTrigger : MonoBehaviour
             ModifierScore(pointsParfait);
 
             // NOUVEAU : On déclenche l'animation ici !
-            // On vérifie d'abord si tu as bien glissé l'Animator dans l'inspecteur pour éviter un crash
             if (animatorPersonnage != null)
             {
                 animatorPersonnage.SetTrigger("FaitUnParfait");
@@ -117,11 +127,10 @@ public class ScriptCoeurEtTrigger : MonoBehaviour
         NettoyerNote();
     }
 
-    private void ModifierScore(int valeur)
+    public void ModifierScore(int valeur)
     {
         _scoreActuel += valeur;
-        // On empêche le score de descendre en dessous de 0 (Optionnel)
-        if (_scoreActuel < 0) _scoreActuel = 0;
+        _scoreActuel = Mathf.Clamp(_scoreActuel, 0, scoreMax);
 
         Debug.Log("Score actuel : " + _scoreActuel);
     }
