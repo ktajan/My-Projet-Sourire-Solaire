@@ -24,7 +24,7 @@ public class RandomRhythmSequencer : MonoBehaviour
             // On choisit un index entre 0 et 3
             int randomIndex = Random.Range(0, 4);
 
-            // On appelle le spawner de boutons
+            // On appelle le spawner de boutons 
             if (buttonSpawner != null)
                 buttonSpawner.SpawnButtonOnly(randomIndex);
 
