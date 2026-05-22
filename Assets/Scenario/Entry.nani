@@ -5,7 +5,7 @@
 ; Print some text.
 ; Print some text.
 New game started.
-@goto Test
+@goto Sosoti1_1
 
 ; Show a placeholder character with 'Felix' ID and 'Excited' appearance.
 @char Felix.Excited

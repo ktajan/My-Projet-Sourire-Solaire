@@ -1,0 +1,48 @@
+@hideAll
+
+//@spawn "Gameplay Lisa"
+Poum poum
+Poum poum
+Poum poum
+@char LisaNarratrice
+J’imaginais Flora me crier :
+Tu veux te tuer ?
+Je courais sur la chaussée aussi vite que mon cœur le permettait. Lors d’une matinée normale, il m’aurait fallu une quinzaine de minutes pour effectuer le trajet entre ma maison et le lycée, soit dix de plus que mes amies.
+L’activité physique n’était pas mon fort. Mon cœur s’emballait au moindre effort plus important que de trottiner.
+Flora le savait.
+C'était probablement pour cela que je me souvenais de ses mots. Lorsqu’elle avait appris pour ma cardiopathie congénitale, nous n’avions que onze ans et venions tout juste d’entrer au collège.
+J’essayais de toutes mes forces de maintenir la cadence des autres élèves, mais le résultat était lamentable. L’écho d’un souvenir sonnait à mes oreilles :
+@char Flora pose:DroiteSolo look:Right
+Tu veux te tuer ?
+LisaNarratrice: Flora m’avait rattrapée avec aisance et m’avait forcée à m’arrêter. Alors que je reprenais mon souffle, un autre élève nous cria :
+Monsieur Moreau nous a demandé de ne pas s’arrêter de courir !
+@char Lisa.LisaAimante pose:GaucheSolo look:Left
+Ne t’inquiète pas pour moi, ai-je répondu entre deux respirations, je vais repartir tout de suite.
+Flora: Ah ça non ! Tu as vu dans quel état tu es ?
+Lisa: Elle était vraiment en colère
+LisaNarratrice: J’avais voulu répondre à Flora, mais je n’y arrivais pas. J’avais juste posé la main sur ma poitrine et m'étais penchée en avant sous son regard.
+Quelques minutes plus tard, nous étions sur le chemin de l'infirmerie.
+Même lorsque je n’étais plus recroquevillée sur moi-même, elle était plus grande que moi. Si elle ne portait pas des couleurs pastel, on ne verrait qu’elle.
+Ses cheveux blonds plus clairs qu’un rayon de soleil étaient toujours attachés en queue de cheval ou chignon, comme si elle se tenait toujours prête à l’action.
+Je découvris rapidement qu’elle portait ses joggings même en dehors des cours d’EPS. Elle adorait s'habiller avec des vêtements de sport ou confortables, et si possible les deux. Après cette rencontre, nous devînmes amies.
+Maintenant, je la connaissais si bien que je savais qu’après avoir couru jusqu’à l’école, m’être faite réprimander par la prof de mathématiques pour mon retard, et avoir suivi péniblement le cours, elle allait m’engueuler pour avoir foncé sans prendre mon temps.
+Flora allait me dire, sur un ton dramatique, qu’il fallait mieux arriver en retard que de risquer la mort puis, après avoir réfléchi, elle ajouterait :
+Flora: Non, tu devrais juste éviter d’avoir ce choix à faire. Tu devrais mieux t’organiser le soir pour ne pas manquer de temps le lendemain matin.
+@hideAll
+
+LisaNarratrice: Mais tout cela ne servirait à rien si je n’arrivais pas à m'endormir dans ma chambre et ce n’était pas chose aisée.
+Il m’était pénible de m’endormir dans un endroit que je considérais comme la maison d’une autre, une petite fille qui n’avait pas grandi. Ce n’était plus mon foyer.
+La petite pièce rose bonbon n’avait pratiquement pas changé depuis mes cinq ans, comme l’image que se faisaient mes parents de moi : leur mignonne petite fille qu’il fallait protéger.
+Lorsqu’un jour, j'avais invité Bruno à passer chez moi, il avait été choqué en découvrant les lieux. Le lit, maintenant trop petit, était prolongé par l’ancien repose-pieds du salon.
+Le bureau installé face à la fenêtre était couvert de manuels scolaires, stylos, crayons, fiches Bristol et autres fournitures.
+Ma machine à coudre, couverte de paillettes, avait quitté sa place pour finir sur une étagère.
+Mon lit était dans un état catastrophique. Je le fis aussi bien que possible, avant qu’il ne le remarque.
+Quand j’eus fini, il était sur mon bureau. Sous tout ce fouillis, il avait deviné des dessins incrustés dans le vieux plan de bois que je n’avais pas différencié d’une feuille de papier, il y a bien des années.
+En un éclair, j’avais pris des feuilles et couvert tous les dessins que l’on pouvait entrapercevoir.
+Lisa: C’est pas une visite de musée !
+LisaNarratrice: Pourtant les murs présentent plein d'œuvres d’art ! répondit-il.
+Je savais qu’il se moquait de moi en faisant référence aux posters de Girl’s Generation, EXO et autres images de K-pop que j’avais mises pour essayer de couvrir les murs roses.
+Bref, de toute ma chambre, seule la penderie dont le contenu avait pu grandir avec moi ne me déplaisait pas. Dans ces conditions, il m’était devenu très difficile de trouver le sommeil.
+@hideAll
+@hidePrinter
+@goto Soso1_1to1_2

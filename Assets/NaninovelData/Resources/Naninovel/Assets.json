@@ -1,6 +1,24 @@
 {
     "Assets": [
         {
+            "guid": "5b196736e28aec747aa202c1cb5d8668",
+            "prefix": "Backgrounds/HorsEcole",
+            "path": "Chambre Lisa",
+            "group": "Backgrounds/63fb7b1b-c6db-43a1-bbdc-a8a5fb56d4ef"
+        },
+        {
+            "guid": "b71f043fedf00ad47b12b5b2f477e93c",
+            "prefix": "Backgrounds/HorsEcole",
+            "path": "Feu de cheminé",
+            "group": "Backgrounds/63fb7b1b-c6db-43a1-bbdc-a8a5fb56d4ef"
+        },
+        {
+            "guid": "270387dfac587254f98589d6272efd4b",
+            "prefix": "Backgrounds/HorsEcole",
+            "path": "Rue",
+            "group": "Backgrounds/63fb7b1b-c6db-43a1-bbdc-a8a5fb56d4ef"
+        },
+        {
             "guid": "f2b051f6614e8d347a7f03718d46d400",
             "prefix": "Characters/Anna",
             "path": "AnnaCraintive",
@@ -331,15 +349,39 @@
             "group": "ChoiceHandlers/bfb2e59e-c284-4de5-ac4e-ed031e1fc2d7"
         },
         {
+            "guid": "8ef4aa13e48ab514d94531eb21ca121c",
+            "prefix": "Scripts",
+            "path": "Chapitre1Part1Lisa",
+            "group": ""
+        },
+        {
             "guid": "e22efec7957e9234eb6a7e14c9bf84fa",
             "prefix": "Scripts",
             "path": "Entry",
             "group": ""
         },
         {
+            "guid": "11b79fcaf1dc4daa9a2ed20122c5c691",
+            "prefix": "Scripts",
+            "path": "NewScript",
+            "group": ""
+        },
+        {
             "guid": "a0a2234f35cf6744d9c4b88b7b8db2f5",
             "prefix": "Scripts",
             "path": "Panneau de choix",
+            "group": ""
+        },
+        {
+            "guid": "fc753444cb9a406e96b2f27e154fbe20",
+            "prefix": "Scripts",
+            "path": "Soso1_1to1_2",
+            "group": ""
+        },
+        {
+            "guid": "11b79fcaf1dc4daa9a2ed20122c5c691",
+            "prefix": "Scripts",
+            "path": "Sosoti1_1",
             "group": ""
         },
         {
