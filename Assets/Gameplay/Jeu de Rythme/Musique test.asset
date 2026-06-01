@@ -15,712 +15,73 @@ MonoBehaviour:
   _features:
   - timestamp: 32.41506
     length: 0
-    strength: 1.7131513
+    strength: 1
   - timestamp: 35.66585
     length: 0
-    strength: 1.3864572
-  - timestamp: 36.40889
-    length: 0
-    strength: 1.8904934
+    strength: 1
   - timestamp: 39.682903
     length: 0
-    strength: 1.6193458
-  - timestamp: 40.42594
-    length: 0
-    strength: 1.4785585
+    strength: 1
   - timestamp: 43.676735
     length: 0
-    strength: 1.5354441
-  - timestamp: 44.419773
-    length: 0
-    strength: 1.3242822
-  - timestamp: 47.15973
-    length: 0
-    strength: 0.4436766
+    strength: 1
   - timestamp: 47.670567
     length: 0
-    strength: 1.0325928
-  - timestamp: 48.436825
-    length: 0
-    strength: 0.91056705
-  - timestamp: 48.669025
-    length: 0
-    strength: 1.4311439
-  - timestamp: 49.87646
-    length: 0
-    strength: 0.8668998
+    strength: 1
   - timestamp: 51.6644
     length: 0
-    strength: 0.86128855
-  - timestamp: 53.939953
-    length: 0
-    strength: 1.0658318
+    strength: 1
   - timestamp: 55.65823
     length: 0
-    strength: 1.4879682
-  - timestamp: 56.424488
-    length: 0
-    strength: 0.6639185
+    strength: 1
   - timestamp: 59.884262
     length: 0
-    strength: 1.0395905
-  - timestamp: 60.69696
-    length: 0
-    strength: 1.1555882
-  - timestamp: 62.415237
-    length: 0
-    strength: 2.1389918
+    strength: 1
   - timestamp: 62.67066
     length: 0
-    strength: 1.5467964
-  - timestamp: 62.90286
-    length: 0
-    strength: 2.2464027
-  - timestamp: 63.413696
-    length: 0
-    strength: 1.5476159
-  - timestamp: 63.901314
-    length: 0
-    strength: 2.0534365
-  - timestamp: 64.179955
-    length: 0
-    strength: 1.222142
-  - timestamp: 64.412155
-    length: 0
-    strength: 1.7513977
-  - timestamp: 64.505035
-    length: 0
-    strength: 0.8857132
-  - timestamp: 64.66757
-    length: 0
-    strength: 1.0604365
-  - timestamp: 64.783676
-    length: 0
-    strength: 1.0673743
-  - timestamp: 64.89977
-    length: 0
-    strength: 1.8773044
-  - timestamp: 65.17841
-    length: 0
-    strength: 1.130877
-  - timestamp: 65.38739
-    length: 0
-    strength: 1.4037687
-  - timestamp: 65.642815
-    length: 0
-    strength: 1.5780808
+    strength: 1
   - timestamp: 65.89823
     length: 0
-    strength: 1.9718053
-  - timestamp: 66.17687
-    length: 0
-    strength: 1.2060502
-  - timestamp: 66.40907
-    length: 0
-    strength: 1.4386699
-  - timestamp: 67.40753
-    length: 0
-    strength: 1.4968406
-  - timestamp: 67.918365
-    length: 0
-    strength: 1.7880487
-  - timestamp: 68.40598
-    length: 0
-    strength: 1.4646131
-  - timestamp: 69.40444
-    length: 0
-    strength: 1.7062347
+    strength: 0.97180533
   - timestamp: 69.68308
     length: 0
-    strength: 1.5219594
-  - timestamp: 69.91528
-    length: 0
-    strength: 2.078395
-  - timestamp: 70.1707
-    length: 0
-    strength: 1.057103
-  - timestamp: 70.4029
-    length: 0
-    strength: 1.4707502
-  - timestamp: 70.68154
-    length: 0
-    strength: 1.2415131
-  - timestamp: 70.93696
-    length: 0
-    strength: 1.7478416
-  - timestamp: 71.40136
-    length: 0
-    strength: 1.3505696
-  - timestamp: 71.93542
-    length: 0
-    strength: 1.6419619
-  - timestamp: 72.09796
-    length: 0
-    strength: 0.8473446
-  - timestamp: 72.21406
-    length: 0
-    strength: 0.8608082
-  - timestamp: 72.39982
-    length: 0
-    strength: 1.2471722
-  - timestamp: 72.91066
-    length: 0
-    strength: 1.6096704
-  - timestamp: 73.42149
-    length: 0
-    strength: 1.4861604
+    strength: 1
   - timestamp: 73.653694
     length: 0
-    strength: 1.299325
-  - timestamp: 73.90912
-    length: 0
-    strength: 1.6057595
-  - timestamp: 74.002
-    length: 0
-    strength: 1.2339141
-  - timestamp: 74.396736
-    length: 0
-    strength: 1.0100303
-  - timestamp: 74.65215
-    length: 0
-    strength: 1.2191908
-  - timestamp: 74.90757
-    length: 0
-    strength: 1.7502154
-  - timestamp: 75.395195
-    length: 0
-    strength: 0.92004794
-  - timestamp: 75.90603
-    length: 0
-    strength: 1.8389862
-  - timestamp: 76.41687
-    length: 0
-    strength: 1.0213296
-  - timestamp: 76.532974
-    length: 0
-    strength: 0.63668483
-  - timestamp: 76.90449
-    length: 0
-    strength: 1.7087247
-  - timestamp: 77.15991
-    length: 0
-    strength: 0.95583063
-  - timestamp: 77.41533
-    length: 0
-    strength: 1.6031444
+    strength: 1
   - timestamp: 77.670746
     length: 0
-    strength: 0.90093493
-  - timestamp: 77.90295
-    length: 0
-    strength: 1.910142
-  - timestamp: 77.97261
-    length: 0
-    strength: 1.4981502
-  - timestamp: 78.41379
-    length: 0
-    strength: 1.6190813
-  - timestamp: 78.64599
-    length: 0
-    strength: 1.5363631
-  - timestamp: 78.901405
-    length: 0
-    strength: 1.7782103
-  - timestamp: 79.41225
-    length: 0
-    strength: 1.4689478
-  - timestamp: 79.899864
-    length: 0
-    strength: 1.6170784
-  - timestamp: 80.20172
-    length: 0
-    strength: 0.88041455
-  - timestamp: 80.410706
-    length: 0
-    strength: 1.4212207
-  - timestamp: 80.68934
-    length: 0
-    strength: 0.8743028
-  - timestamp: 80.78222
-    length: 0
-    strength: 0.86560047
-  - timestamp: 80.89832
-    length: 0
-    strength: 1.564248
-  - timestamp: 81.17696
-    length: 0
-    strength: 0.89195883
+    strength: 1
   - timestamp: 81.66458
     length: 0
-    strength: 1.1593889
-  - timestamp: 82.17542
-    length: 0
-    strength: 1.0873682
-  - timestamp: 82.3844
-    length: 0
-    strength: 1.3936263
-  - timestamp: 82.66304
-    length: 0
-    strength: 1.5735111
-  - timestamp: 82.94168
-    length: 0
-    strength: 1.6705785
-  - timestamp: 83.406075
-    length: 0
-    strength: 1.539273
-  - timestamp: 83.916916
-    length: 0
-    strength: 1.5096947
-  - timestamp: 84.40453
-    length: 0
-    strength: 1.301884
-  - timestamp: 84.915375
-    length: 0
-    strength: 1.3807591
-  - timestamp: 85.17079
-    length: 0
-    strength: 0.68087393
-  - timestamp: 85.40299
-    length: 0
-    strength: 1.461351
+    strength: 1
   - timestamp: 85.68163
     length: 0
-    strength: 1.5491331
-  - timestamp: 85.91383
-    length: 0
-    strength: 1.8404392
-  - timestamp: 86.16925
-    length: 0
-    strength: 0.99223185
-  - timestamp: 86.40145
-    length: 0
-    strength: 1.4181812
-  - timestamp: 87.39991
-    length: 0
-    strength: 1.3887217
-  - timestamp: 88.21261
-    length: 0
-    strength: 0.8519782
-  - timestamp: 88.39837
-    length: 0
-    strength: 1.1115624
-  - timestamp: 88.9092
-    length: 0
-    strength: 1.5738535
-  - timestamp: 89.39683
-    length: 0
-    strength: 1.3126779
+    strength: 1
   - timestamp: 89.652245
     length: 0
-    strength: 1.2305807
-  - timestamp: 89.884445
+    strength: 1
+  - timestamp: 93.65072
     length: 0
-    strength: 1.5217458
-  - timestamp: 90.4185
-    length: 0
-    strength: 1.3917121
-  - timestamp: 90.6507
-    length: 0
-    strength: 1.2002019
-  - timestamp: 90.90612
-    length: 0
-    strength: 1.6793046
-  - timestamp: 91.39374
-    length: 0
-    strength: 1.1695254
-  - timestamp: 91.90458
-    length: 0
-    strength: 1.6822133
-  - timestamp: 92.41542
-    length: 0
-    strength: 1.1692853
-  - timestamp: 92.90304
-    length: 0
-    strength: 1.4987029
-  - timestamp: 93.158455
-    length: 0
-    strength: 1.0009236
-  - timestamp: 93.41388
-    length: 0
-    strength: 1.4838965
-  - timestamp: 93.92471
-    length: 0
-    strength: 1.7553183
-  - timestamp: 94.41234
-    length: 0
-    strength: 1.6299673
-  - timestamp: 94.481995
-    length: 0
-    strength: 1.578386
-  - timestamp: 94.899956
-    length: 0
-    strength: 1.5022904
-  - timestamp: 95.4108
-    length: 0
-    strength: 1.4618894
-  - timestamp: 95.92163
-    length: 0
-    strength: 1.5705327
-  - timestamp: 96.177055
-    length: 0
-    strength: 0.93791395
-  - timestamp: 96.40925
-    length: 0
-    strength: 1.4441599
-  - timestamp: 96.68789
-    length: 0
-    strength: 0.8500698
-  - timestamp: 96.78077
-    length: 0
-    strength: 0.82247317
-  - timestamp: 96.92009
-    length: 0
-    strength: 1.4972614
-  - timestamp: 97.17551
-    length: 0
-    strength: 0.9388089
-  - timestamp: 97.40771
-    length: 0
-    strength: 1.4048504
+    strength: 1
   - timestamp: 97.66313
     length: 0
-    strength: 1.1219505
-  - timestamp: 97.91855
-    length: 0
-    strength: 1.7026136
-  - timestamp: 98.173965
-    length: 0
-    strength: 0.9780635
-  - timestamp: 98.406166
-    length: 0
-    strength: 1.3021272
-  - timestamp: 98.94022
-    length: 0
-    strength: 1.6576777
-  - timestamp: 99.404625
-    length: 0
-    strength: 1.4258724
-  - timestamp: 99.91547
-    length: 0
-    strength: 1.5531183
-  - timestamp: 100.21732
-    length: 0
-    strength: 0.7619721
-  - timestamp: 100.40308
-    length: 0
-    strength: 1.1415815
-  - timestamp: 100.913925
-    length: 0
-    strength: 1.4231566
-  - timestamp: 101.40154
-    length: 0
-    strength: 1.3150059
+    strength: 1
   - timestamp: 101.68018
     length: 0
-    strength: 1.4233669
-  - timestamp: 101.912384
-    length: 0
-    strength: 1.8056788
-  - timestamp: 102.4
-    length: 0
-    strength: 1.3431376
-  - timestamp: 102.910835
-    length: 0
-    strength: 1.6058359
-  - timestamp: 103.39846
-    length: 0
-    strength: 1.2580585
-  - timestamp: 104.21116
-    length: 0
-    strength: 0.8250434
-  - timestamp: 104.39692
-    length: 0
-    strength: 0.99257505
-  - timestamp: 104.90775
-    length: 0
-    strength: 1.5663743
-  - timestamp: 105.16318
-    length: 0
-    strength: 0.7460681
-  - timestamp: 105.418594
-    length: 0
-    strength: 1.2395413
+    strength: 1
   - timestamp: 105.650795
     length: 0
-    strength: 1.1106522
-  - timestamp: 105.882996
-    length: 0
-    strength: 1.3804673
-  - timestamp: 106.41705
-    length: 0
-    strength: 1.3775662
-  - timestamp: 106.53315
-    length: 0
-    strength: 1.1531308
-  - timestamp: 106.90467
-    length: 0
-    strength: 1.5417845
-  - timestamp: 107.41551
-    length: 0
-    strength: 1.210103
-  - timestamp: 107.90313
-    length: 0
-    strength: 1.515027
-  - timestamp: 108.41397
-    length: 0
-    strength: 1.1175294
-  - timestamp: 108.90159
-    length: 0
-    strength: 1.3950009
-  - timestamp: 109.41243
-    length: 0
-    strength: 1.6185083
+    strength: 1
   - timestamp: 109.66785
     length: 0
-    strength: 0.8951839
-  - timestamp: 110.41088
-    length: 0
-    strength: 1.4064182
-  - timestamp: 110.666306
-    length: 0
-    strength: 1.0960643
-  - timestamp: 110.94495
-    length: 0
-    strength: 1.3491172
-  - timestamp: 111.92018
-    length: 0
-    strength: 1.5150564
-  - timestamp: 112.68644
-    length: 0
-    strength: 0.8472923
-  - timestamp: 112.77932
-    length: 0
-    strength: 0.8488743
-  - timestamp: 113.17406
-    length: 0
-    strength: 0.92519873
-  - timestamp: 113.42948
-    length: 0
-    strength: 1.1469136
+    strength: 1
   - timestamp: 113.661674
     length: 0
-    strength: 1.2366085
-  - timestamp: 114.19574
-    length: 0
-    strength: 0.9670217
-  - timestamp: 114.42793
-    length: 0
-    strength: 1.485334
-  - timestamp: 114.938774
-    length: 0
-    strength: 1.4129435
-  - timestamp: 115.217415
-    length: 0
-    strength: 1.1981584
-  - timestamp: 115.91402
-    length: 0
-    strength: 1.3902863
-  - timestamp: 117.44653
-    length: 0
-    strength: 1.1045898
+    strength: 1
   - timestamp: 117.678734
     length: 0
-    strength: 1.5781395
-  - timestamp: 117.88771
-    length: 0
-    strength: 1.3326384
-  - timestamp: 118.16635
-    length: 0
-    strength: 0.9065397
-  - timestamp: 118.93261
-    length: 0
-    strength: 0.88599634
-  - timestamp: 119.93107
-    length: 0
-    strength: 0.8665859
-  - timestamp: 120.2097
-    length: 0
-    strength: 0.9362869
-  - timestamp: 120.6741
-    length: 0
-    strength: 0.93213046
-  - timestamp: 121.16172
-    length: 0
-    strength: 0.838062
-  - timestamp: 121.39392
-    length: 0
-    strength: 0.9648443
-  - timestamp: 121.649345
-    length: 0
-    strength: 0.92117286
-  - timestamp: 121.90476
-    length: 0
-    strength: 1.3348712
-  - timestamp: 122.4156
-    length: 0
-    strength: 2.2215657
-  - timestamp: 122.67102
-    length: 0
-    strength: 1.6397585
-  - timestamp: 122.90322
-    length: 0
-    strength: 2.0719063
-  - timestamp: 123.66948
-    length: 0
-    strength: 1.5620457
-  - timestamp: 123.90168
-    length: 0
-    strength: 1.9086688
-  - timestamp: 124.18032
-    length: 0
-    strength: 1.3713937
-  - timestamp: 124.41251
-    length: 0
-    strength: 1.6654154
-  - timestamp: 124.66794
-    length: 0
-    strength: 1.6770574
-  - timestamp: 124.90014
-    length: 0
-    strength: 1.6920458
-  - timestamp: 125.17877
-    length: 0
-    strength: 1.5803591
-  - timestamp: 125.41097
-    length: 0
-    strength: 1.6212287
-  - timestamp: 125.6664
-    length: 0
-    strength: 1.3802215
-  - timestamp: 125.921814
-    length: 0
-    strength: 1.7862097
-  - timestamp: 126.200455
-    length: 0
-    strength: 1.8065751
-  - timestamp: 126.40943
-    length: 0
-    strength: 1.6796639
-  - timestamp: 126.89705
-    length: 0
-    strength: 1.7184888
-  - timestamp: 127.19891
-    length: 0
-    strength: 1.6323283
-  - timestamp: 127.40789
-    length: 0
-    strength: 1.6296556
-  - timestamp: 127.68653
-    length: 0
-    strength: 1.5865965
-  - timestamp: 127.91873
-    length: 0
-    strength: 1.792203
-  - timestamp: 128.19737
-    length: 0
-    strength: 1.2881086
-  - timestamp: 128.40636
-    length: 0
-    strength: 1.8543491
-  - timestamp: 128.66177
-    length: 0
-    strength: 1.539551
-  - timestamp: 129.1726
-    length: 0
-    strength: 1.5296974
-  - timestamp: 129.4048
-    length: 0
-    strength: 1.8128216
-  - timestamp: 129.91565
-    length: 0
-    strength: 1.9461246
-  - timestamp: 130.17107
-    length: 0
-    strength: 1.7369373
-  - timestamp: 130.40326
-    length: 0
-    strength: 1.8187351
-  - timestamp: 130.65869
-    length: 0
-    strength: 1.1905555
-  - timestamp: 130.91411
-    length: 0
-    strength: 1.7928778
-  - timestamp: 131.16953
-    length: 0
-    strength: 1.5161567
-  - timestamp: 131.40172
-    length: 0
-    strength: 1.7695708
-  - timestamp: 131.68036
-    length: 0
-    strength: 1.308321
-  - timestamp: 131.91257
-    length: 0
-    strength: 1.9198008
-  - timestamp: 132.16798
-    length: 0
-    strength: 1.237527
-  - timestamp: 132.4234
-    length: 0
-    strength: 1.7048074
-  - timestamp: 132.91103
-    length: 0
-    strength: 1.9649096
-  - timestamp: 132.98068
-    length: 0
-    strength: 1.4058528
-  - timestamp: 133.16644
-    length: 0
-    strength: 1.662132
-  - timestamp: 133.39864
-    length: 0
-    strength: 1.7207114
-  - timestamp: 133.67728
-    length: 0
-    strength: 1.4357584
-  - timestamp: 133.90948
-    length: 0
-    strength: 1.932923
-  - timestamp: 134.93115
-    length: 0
-    strength: 1.7129663
-  - timestamp: 135.39555
-    length: 0
-    strength: 1.6840231
-  - timestamp: 135.6742
-    length: 0
-    strength: 1.4160607
-  - timestamp: 135.90639
-    length: 0
-    strength: 2.025966
-  - timestamp: 136.41724
-    length: 0
-    strength: 1.7048502
-  - timestamp: 136.88164
-    length: 0
-    strength: 1.6716973
-  - timestamp: 137.4157
-    length: 0
-    strength: 1.4075848
-  - timestamp: 137.67111
-    length: 0
-    strength: 1.6192979
-  - timestamp: 137.9033
-    length: 0
-    strength: 1.7435795
-  - timestamp: 138.15874
-    length: 0
-    strength: 1.5580297
-  - timestamp: 138.50703
-    length: 0
-    strength: 0.81631035
-  - timestamp: 140.66649
-    length: 0
-    strength: 0.44655266
-  - timestamp: 145.17116
-    length: 0
-    strength: 0.4129786
+    strength: 1
 --- !u!114 &-4203545887471514797
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -1664,28 +1025,31 @@ MonoBehaviour:
   _features:
   - timestamp: 0.44117913
     length: 0
-    strength: 0.99346334
-  - timestamp: 4.4350114
+    strength: 1
+  - timestamp: 4.32812
     length: 0
-    strength: 1.4036614
+    strength: 1
   - timestamp: 8.405623
     length: 0
-    strength: 1.526564
+    strength: 1
   - timestamp: 12.422676
     length: 0
-    strength: 1.3143386
+    strength: 1
   - timestamp: 16.416508
     length: 0
-    strength: 1.2203127
+    strength: 1
   - timestamp: 20.41034
     length: 0
-    strength: 1.4977925
+    strength: 1
   - timestamp: 24.404173
     length: 0
-    strength: 1.5986224
+    strength: 1
   - timestamp: 28.421225
     length: 0
-    strength: 1.2923054
+    strength: 1
+  - timestamp: 142.49832
+    length: 0
+    strength: 2
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1704,6 +1068,51 @@ MonoBehaviour:
   - {fileID: 4141151780811399605}
   - {fileID: -3255209355827449146}
   - {fileID: -8899798192099103577}
+  - {fileID: 2839118831211887652}
+  - {fileID: 8142276150840274841}
+--- !u!114 &2839118831211887652
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4441c1fab3119af4bb6d18cb48a9c462, type: 3}
+  m_Name: A
+  m_EditorClassIdentifier: Assembly-CSharp::RhythmTool.OnsetTrack
+  _features:
+  - timestamp: 36.40889
+    length: 0
+    strength: 1
+  - timestamp: 40.42594
+    length: 0
+    strength: 1
+  - timestamp: 44.419773
+    length: 0
+    strength: 1
+  - timestamp: 48.669025
+    length: 0
+    strength: 1
+  - timestamp: 52.656147
+    length: 0
+    strength: 1
+  - timestamp: 56.424488
+    length: 0
+    strength: 1
+  - timestamp: 60.69696
+    length: 0
+    strength: 1
+  - timestamp: 66.87691
+    length: 0
+    strength: 1
+  - timestamp: 70.93696
+    length: 0
+    strength: 1
+  - timestamp: 74.90757
+    length: 0
+    strength: 1
 --- !u!114 &4141151780811399605
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -2509,3 +1918,73 @@ MonoBehaviour:
   - timestamp: 145.17116
     length: 0
     strength: 0.4129786
+--- !u!114 &8142276150840274841
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4441c1fab3119af4bb6d18cb48a9c462, type: 3}
+  m_Name: B
+  m_EditorClassIdentifier: Assembly-CSharp::RhythmTool.OnsetTrack
+  _features:
+  - timestamp: 78.64599
+    length: 0
+    strength: 1
+  - timestamp: 82.66304
+    length: 0
+    strength: 1
+  - timestamp: 86.61962
+    length: 0
+    strength: 1
+  - timestamp: 90.6507
+    length: 0
+    strength: 1
+  - timestamp: 94.64512
+    length: 0
+    strength: 1
+  - timestamp: 98.64098
+    length: 0
+    strength: 1
+  - timestamp: 102.64691
+    length: 0
+    strength: 1
+  - timestamp: 106.66181
+    length: 0
+    strength: 1
+  - timestamp: 110.666306
+    length: 0
+    strength: 1
+  - timestamp: 114.66185
+    length: 0
+    strength: 1
+  - timestamp: 118.58414
+    length: 0
+    strength: 1
+  - timestamp: 122.59209
+    length: 0
+    strength: 1
+  - timestamp: 124.66794
+    length: 0
+    strength: 1
+  - timestamp: 126.40943
+    length: 0
+    strength: 1
+  - timestamp: 128.40636
+    length: 0
+    strength: 1
+  - timestamp: 130.40326
+    length: 0
+    strength: 1
+  - timestamp: 132.4234
+    length: 0
+    strength: 1
+  - timestamp: 134.48904
+    length: 0
+    strength: 1
+  - timestamp: 136.41724
+    length: 0
+    strength: 1

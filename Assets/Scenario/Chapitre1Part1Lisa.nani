@@ -1,9 +1,11 @@
-@hideAll
 
-//@spawn "Gameplay Lisa"
+//@hideAll
+@despawn "Gameplay Lisa"
+@spawn "Gameplay Lisa"
 Poum poum
 Poum poum
 Poum poum
+@back Rue id:HorsEcole
 @char LisaNarratrice
 J’imaginais Flora me crier :
 Tu veux te tuer ?

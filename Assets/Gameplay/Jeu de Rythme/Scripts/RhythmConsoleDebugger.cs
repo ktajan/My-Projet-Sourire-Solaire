@@ -17,18 +17,32 @@ public class RhythmNoteSequencer : MonoBehaviour
             // On connecte nos fonctions aux pistes "X" et "Y"
             eventProvider.Register<Onset>(OnBoutonX, "X");
             eventProvider.Register<Onset>(OnBoutonY, "Y");
+            eventProvider.Register<Onset>(OnBoutonA, "A");
+            eventProvider.Register<Onset>(OnBoutonB, "B");
         }
     }
 
     private void OnBoutonX(Onset onset)
     {
-        // La piste X correspond au bouton d'index 0
-        TriggerNote(0);
+        // La piste X correspond au bouton d'index 2
+        TriggerNote(2);
     }
 
     private void OnBoutonY(Onset onset)
     {
-        // La piste Y correspond au bouton d'index 1
+        // La piste Y correspond au bouton d'index 3
+        TriggerNote(3);
+    }
+
+    private void OnBoutonA(Onset onset)
+    {
+        // La piste A correspond au bouton d'index 0
+        TriggerNote(0);
+    }
+
+    private void OnBoutonB(Onset onset)
+    {
+        // La piste B correspond au bouton d'index 1
         TriggerNote(1);
     }
 
@@ -49,6 +63,8 @@ public class RhythmNoteSequencer : MonoBehaviour
         {
             eventProvider.Unregister<Onset>(OnBoutonX, "X");
             eventProvider.Unregister<Onset>(OnBoutonY, "Y");
+            eventProvider.Unregister<Onset>(OnBoutonX, "A");
+            eventProvider.Unregister<Onset>(OnBoutonY, "B");
         }
     }
 }

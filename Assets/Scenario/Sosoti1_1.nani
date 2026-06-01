@@ -1,3 +1,3 @@
 @showUI "Livre Sourire Solaire"
-@choice Test goto:Chapitre1Part1Lisa handler:ButtonList show!
-@stop
+@hideUI "Livre Sourire Solaire" allowToggle!
+@goto Chapitre1Part1Lisa
