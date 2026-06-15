@@ -32,6 +32,7 @@ Flora allait me dire, sur un ton dramatique, qu’il fallait mieux arriver en re
 Flora: Non, tu devrais juste éviter d’avoir ce choix à faire. Tu devrais mieux t’organiser le soir pour ne pas manquer de temps le lendemain matin.
 @hideAll
 
+@back "Chambre Lisa" id:HorsEcole
 LisaNarratrice: Mais tout cela ne servirait à rien si je n’arrivais pas à m'endormir dans ma chambre et ce n’était pas chose aisée.
 Il m’était pénible de m’endormir dans un endroit que je considérais comme la maison d’une autre, une petite fille qui n’avait pas grandi. Ce n’était plus mon foyer.
 La petite pièce rose bonbon n’avait pratiquement pas changé depuis mes cinq ans, comme l’image que se faisaient mes parents de moi : leur mignonne petite fille qu’il fallait protéger.

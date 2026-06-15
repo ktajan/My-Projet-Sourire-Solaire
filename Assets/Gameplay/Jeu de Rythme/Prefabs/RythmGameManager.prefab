@@ -46,6 +46,7 @@ GameObject:
   - component: {fileID: 797304931014754733}
   - component: {fileID: 7334138574362993971}
   - component: {fileID: 4631183481897562001}
+  - component: {fileID: 898769995319900078}
   m_Layer: 0
   m_Name: Maison des Scripts
   m_TagString: Untagged
@@ -168,6 +169,25 @@ MonoBehaviour:
   dilateMax: 0
   dilateMin: -0.5
   vitesseTransition: 100
+--- !u!114 &898769995319900078
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5314469169087712376}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9642d1d9340c32041ba63e69a523e0ec, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::LisaCouleurTexte
+  pointDImpact: {fileID: 5877139520729618174}
+  couleurParDefaut: {r: 1, g: 1, b: 1, a: 1}
+  couleurBoutonA: {r: 0, g: 1, b: 0, a: 1}
+  couleurBoutonB: {r: 1, g: 0, b: 0, a: 1}
+  couleurBoutonX: {r: 0, g: 0, b: 1, a: 1}
+  couleurBoutonY: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  distanceMax: 5
 --- !u!1001 &4180109580541880344
 PrefabInstance:
   m_ObjectHideFlags: 0
