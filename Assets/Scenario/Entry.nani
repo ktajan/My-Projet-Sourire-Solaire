@@ -1,10 +1,7 @@
-; Played when a new game starts.
-; Reveal a 'Mist' background over 1.5 seconds and wait for the animation.
-@back Mist.CircleReveal time:1.5 wait!
-
+@spawn TutoRythmGameManager
+@attendreScoreMax cible:130 wait!
+@despawn TutoRythmGameManager
 ; Print some text.
-; Print some text.
-New game started.
 @goto Sosoti1_1
 
 ; Show a placeholder character with 'Felix' ID and 'Excited' appearance.

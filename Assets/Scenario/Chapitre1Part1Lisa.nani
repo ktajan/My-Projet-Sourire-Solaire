@@ -1,9 +1,7 @@
 
+//@spawn "Gameplay Lisa"
 //@hideAll
-@despawn "Gameplay Lisa"
-@spawn "Gameplay Lisa"
-Poum poum
-Poum poum
+@bgm Lisa_Retard
 Poum poum
 @back Rue id:HorsEcole
 @char LisaNarratrice
@@ -13,9 +11,12 @@ Je courais sur la chaussée aussi vite que mon cœur le permettait. Lors d’une
 L’activité physique n’était pas mon fort. Mon cœur s’emballait au moindre effort plus important que de trottiner.
 Flora le savait.
 C'était probablement pour cela que je me souvenais de ses mots. Lorsqu’elle avait appris pour ma cardiopathie congénitale, nous n’avions que onze ans et venions tout juste d’entrer au collège.
-J’essayais de toutes mes forces de maintenir la cadence des autres élèves, mais le résultat était lamentable. L’écho d’un souvenir sonnait à mes oreilles :
+J’essayais de toutes mes forces de maintenir la cadence des autres élèves, mais le résultat était lamentable. 
+@stopBgm Lisa_Retard fade:2
+L’écho d’un souvenir sonnait à mes oreilles :
 @char Flora pose:DroiteSolo look:Right
 Tu veux te tuer ?
+@bgm Lisa_Souvenirs fade:3
 LisaNarratrice: Flora m’avait rattrapée avec aisance et m’avait forcée à m’arrêter. Alors que je reprenais mon souffle, un autre élève nous cria :
 Monsieur Moreau nous a demandé de ne pas s’arrêter de courir !
 @char Lisa.LisaAimante pose:GaucheSolo look:Left
@@ -41,11 +42,14 @@ Le bureau installé face à la fenêtre était couvert de manuels scolaires, sty
 Ma machine à coudre, couverte de paillettes, avait quitté sa place pour finir sur une étagère.
 Mon lit était dans un état catastrophique. Je le fis aussi bien que possible, avant qu’il ne le remarque.
 Quand j’eus fini, il était sur mon bureau. Sous tout ce fouillis, il avait deviné des dessins incrustés dans le vieux plan de bois que je n’avais pas différencié d’une feuille de papier, il y a bien des années.
+@stopBgm Lisa_Souvenirs fade:2
 En un éclair, j’avais pris des feuilles et couvert tous les dessins que l’on pouvait entrapercevoir.
+@bgm Lisa_Smiley fade:2
 Lisa: C’est pas une visite de musée !
 LisaNarratrice: Pourtant les murs présentent plein d'œuvres d’art ! répondit-il.
 Je savais qu’il se moquait de moi en faisant référence aux posters de Girl’s Generation, EXO et autres images de K-pop que j’avais mises pour essayer de couvrir les murs roses.
 Bref, de toute ma chambre, seule la penderie dont le contenu avait pu grandir avec moi ne me déplaisait pas. Dans ces conditions, il m’était devenu très difficile de trouver le sommeil.
 @hideAll
 @hidePrinter
+@despawn "Gameplay Lisa"
 @goto Soso1_1to1_2

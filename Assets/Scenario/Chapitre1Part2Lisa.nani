@@ -1,0 +1,38 @@
+@hideAll
+@stopbgm
+@despawn "Gameplay Lisa"
+
+@spawn "Gameplay Lisa"
+
+LisaNarratrice: Au-dessus du portail était écrit “Lycée privé Alexandre Dumas”. L’école était ouverte, mais les élèves étaient déjà entrés. 
+Je m’arrêtai quelques instants pour laisser mon cœur battre à tout rompre. Je m’étais trompée.
+Flora n’allait pas pouvoir me réprimander sur ma course effrénée, car elle n’allait pas savoir que j’étais en retard.
+Nous n’étions plus dans la même classe. J’avais redoublé. Et quelle bonne idée d’entamer ma deuxième année de première avec un retard !
+Même si nous étions toujours dans la même école, Flora allait me manquer. La voir se rouler les pouces lorsqu’elle avait fini les exercices en premier (fini ne voulait pas dire réussi),
+la voir faire disparaître ses affaires à la seconde où la cloche retentissait ou encore lever la main comme si elle cherchait à toucher le plafond, son énergie ne m’accompagnerait plus chaque heure de la journée… 
+Et j’en avais besoin. Alors que mon rythme cardiaque redevenait normal et que je devais rentrer dans l'école, mon second pire ennemi, le stress, m'asséna un nouveau coup : j’étais en retard !
+@despawn "Gameplay Lisa"
+
+Ce n’était évidemment pas ce que je voulais ajouter à ma liste de succès.
+Tous les jours, avant de me coucher, j’écrivais dans un petit carnet les succès de la journée. J’aurais préféré y noter une phrase de l’ordre de “Mardi 17 septembre, j’ai réussi à parler au nouveau”.
+@back
+
+@char Samy
+J’ai cru entendre qu’il s’appelait Sam. Il était à peine plus petit que moi, mais prenait tout de même plus de place avec sa masse musculaire (il m’expliqua plus tard qu’il n’allait “que” trois fois par semaine à la salle à cause de “la règle des 80/20”). 
+Il avait les cheveux noirs corbeau en undercut qui semblaient toujours de la même longueur. La seule chose qui changeait avec le temps était le nom des écoles qu’il portait sur ses sweats.
+Lisa: Tu as vécu aux États-Unis ? lui demandais-je quand nous apprîmes à nous connaître.
+Samy: As you can hear from my accent, absolutely not.
+Lisa: Ah, ce sont tes écoles préférées ?
+
+Non. Pour tout te dire, je ne suis même pas sûr que ce soient des écoles.
+LisaNarratrice: Lorsque nous avions vérifié, il s'était avéré que c’étaient des noms fictifs pour des raisons de droit. Mais ces conversations n’arrivèrent pas les premiers jours.
+Malheureusement, approcher le nouvel élève de la classe de moi-même m’aurait demandé de surmonter mon stress et mon cœur. Ce qui reviendrait presque à la situation actuelle : moi, devant la porte fermée de la classe, avec un quart d’heure de retard.
+Lorsque j’ouvris la porte, la pièce était vide. Nous n’avions pas cours et j’avais une heure d’avance.
+
+Était-ce une bonne nouvelle ? D’un côté je n’étais pas arrivée en retard en cours, et de l’autre, j’allais devoir attendre en permanence durant presque une heure, seule. Dans ce collège-lycée, quel que soit votre âge, vous n’aviez pas le droit de traîner dans les couloirs.
+S’il n’y avait pas cours et pas de mots pour sortir, c’était la permanence. Vive les lycées privés à l’ancienne… Je fus prise d’un pincement au cœur.
+Flora avait toujours quelque chose à faire. Elle n’allait pas m’accompagner dans mes révisions ou me prêter l’un de ses romans. Je n’aurais pas dit non à Hunger Games ou Le pacte des Marchombres, car je n’avais pas de devoirs à faire.
+Ce n’était que la première semaine de classe et la permanence était donc pratiquement vide.
+Le hall principal de l’école avait une triple utilité au sein de notre lycée. Le midi, il servait de cantine: le reste du temps, il servait de salle de permanence à l'exception de grandes occasions où il redevenait un hall, comme pour le bal de fin d’année.
+Je le connaissais bien plus comme une cantine et j’avais hâte de le retrouver ainsi. J’allais pouvoir profiter des repas avec Flora. Mais, voilà que j’étais là pour attendre. J’allais perdre mon temps.
+Mais pour tout avouer, même si je préférais étudier l’anglais avec Madame Robert, discuter pour la centième fois du sort le plus pratique décrit dans Harry Potter avec Flora, relire mes fiches Bristol avant un examen ou profiter de la brise matinale dans la cour de récréation, être en permanence était tout de même plus réjouissant que de devoir respirer l’air pesant de ce qui était censé être ma chambre.

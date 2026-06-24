@@ -49,10 +49,18 @@ public class LisaShaderDilatation : MonoBehaviour
         if (panel != null)
         {
             _tmpComponent = panel.GetComponentInChildren<TMP_Text>();
-            if (_tmpComponent != null)
+
+            // LA SÉCURITÉ : On s'assure que le composant ET le material source sont bien réels
+            if (_tmpComponent != null && _tmpComponent.fontSharedMaterial != null)
             {
                 _materialInstance = new Material(_tmpComponent.fontSharedMaterial);
                 _tmpComponent.fontSharedMaterial = _materialInstance;
+            }
+            else
+            {
+                // Si le texte est là mais que son material n'est pas encore prêt (ou détruit),
+                // on annule la découverte pour forcer le LateUpdate à retenter le coup plus tard.
+                _tmpComponent = null;
             }
         }
     }

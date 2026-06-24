@@ -1,6 +1,60 @@
 {
     "Assets": [
         {
+            "guid": "fadf8e601625a0148bceb2d2a8b990e4",
+            "prefix": "Audio",
+            "path": "Lisa_Cocon",
+            "group": ""
+        },
+        {
+            "guid": "d9aa1829a439e9c47836d204246744f4",
+            "prefix": "Audio",
+            "path": "Lisa_Retard",
+            "group": ""
+        },
+        {
+            "guid": "b84bc8e28828560418fef1c358b3e2f7",
+            "prefix": "Audio",
+            "path": "Lisa_Smiley",
+            "group": ""
+        },
+        {
+            "guid": "1660d85de8c11b447afb478e7066f69d",
+            "prefix": "Audio",
+            "path": "Lisa_Souvenirs",
+            "group": ""
+        },
+        {
+            "guid": "34cc3ac37436b104f98febd1ab13fbae",
+            "prefix": "Audio",
+            "path": "Lisa_TensionIntro",
+            "group": ""
+        },
+        {
+            "guid": "19009ec87ab25c340994d37bb0fd391c",
+            "prefix": "Audio",
+            "path": "Lisa_TensionLoop",
+            "group": ""
+        },
+        {
+            "guid": "646175361dd2dd0449d113e296d5e6c4",
+            "prefix": "Audio",
+            "path": "OST_Lisa_Vie de lycéenne",
+            "group": ""
+        },
+        {
+            "guid": "815401786a38b1e4ba00f8c9dd100844",
+            "prefix": "Backgrounds/Ecole",
+            "path": "Couloir d'école",
+            "group": "Backgrounds/c63157d8-475a-4817-9a63-41d1c771be9f"
+        },
+        {
+            "guid": "63e25e7b02f8e6541850da02b7721fd5",
+            "prefix": "Backgrounds/Ecole",
+            "path": "Hall d'école",
+            "group": "Backgrounds/c63157d8-475a-4817-9a63-41d1c771be9f"
+        },
+        {
             "guid": "5b196736e28aec747aa202c1cb5d8668",
             "prefix": "Backgrounds/HorsEcole",
             "path": "Chambre Lisa",
@@ -16,6 +70,12 @@
             "guid": "270387dfac587254f98589d6272efd4b",
             "prefix": "Backgrounds/HorsEcole",
             "path": "Rue",
+            "group": "Backgrounds/63fb7b1b-c6db-43a1-bbdc-a8a5fb56d4ef"
+        },
+        {
+            "guid": "04e5ffdbf94a55f4484530e81e685e7b",
+            "prefix": "Backgrounds/HorsEcole",
+            "path": "Rue école",
             "group": "Backgrounds/63fb7b1b-c6db-43a1-bbdc-a8a5fb56d4ef"
         },
         {
@@ -355,6 +415,12 @@
             "group": ""
         },
         {
+            "guid": "2d253a9881255764ba591bfc717a2961",
+            "prefix": "Scripts",
+            "path": "Chapitre1Part2Lisa",
+            "group": ""
+        },
+        {
             "guid": "e22efec7957e9234eb6a7e14c9bf84fa",
             "prefix": "Scripts",
             "path": "Entry",
@@ -466,6 +532,12 @@
             "guid": "c4bf810b9b6cc9f44a58fd670678ded4",
             "prefix": "Spawn",
             "path": "SunShafts",
+            "group": ""
+        },
+        {
+            "guid": "a4eb16ccdf1108949b8d31eea63d8fbf",
+            "prefix": "Spawn",
+            "path": "TutoRythmGameManager",
             "group": ""
         },
         {

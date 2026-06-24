@@ -14,6 +14,7 @@ public class RhythmNoteSequencer : MonoBehaviour
     {
         if (eventProvider != null)
         {
+            Debug.Log("Abonnement OK");
             // On connecte nos fonctions aux pistes "X" et "Y"
             eventProvider.Register<Onset>(OnBoutonX, "X");
             eventProvider.Register<Onset>(OnBoutonY, "Y");
@@ -42,6 +43,7 @@ public class RhythmNoteSequencer : MonoBehaviour
 
     private void OnBoutonB(Onset onset)
     {
+        Debug.Log("Piste B détectée par l'Event Provider !"); // On vérifie si l'info arrive
         // La piste B correspond au bouton d'index 1
         TriggerNote(1);
     }
@@ -63,8 +65,8 @@ public class RhythmNoteSequencer : MonoBehaviour
         {
             eventProvider.Unregister<Onset>(OnBoutonX, "X");
             eventProvider.Unregister<Onset>(OnBoutonY, "Y");
-            eventProvider.Unregister<Onset>(OnBoutonX, "A");
-            eventProvider.Unregister<Onset>(OnBoutonY, "B");
+            eventProvider.Unregister<Onset>(OnBoutonA, "A");
+            eventProvider.Unregister<Onset>(OnBoutonB, "B");
         }
     }
 }
